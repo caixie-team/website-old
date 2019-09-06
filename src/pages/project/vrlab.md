@@ -17,13 +17,6 @@ sections:
     - type: text
       header: 介绍
       body: 本项目基于首都师范大学的教学需求,依托教师科研和产业化成果转化而设计开发。系统包括心理学实验的多个步骤，解决项目实际教学中周期长、耗材昂贵，学生实际操作机会少的难题。
-    - type: stats
-      stat1LabelHtml: "<p><strong>Reduction in app engineering time </strong>for all mobile apps</p>"
-      stat1Value: 30%
-      stat2LabelHtml: "<p><strong>Between production deployments</strong>, down from 6 months</p>" 
-      stat2Value: 2 wks
-      stat3LabelHtml: "<p><strong>Multi-platform components </strong>(work across both web and native mobile) built</p>"
-      stat3Value: 5+
     - type: text
       header: 执行方案
       body: "<p>我们要用最简洁的交互来管理复杂的内容，也要要用最明快的界面体现出最便捷的的交互，轻量级的小程序移动端是最轻便的播客应用。</p>"

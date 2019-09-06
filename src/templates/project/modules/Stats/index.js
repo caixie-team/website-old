@@ -7,7 +7,7 @@ import styles from "./styles.module.css"
 const Stats = ({
                  className,
                  stat1Value,
-                 stat1LableHtml,
+                 stat1LabelHtml,
                  stat2Value,
                  stat2LabelHtml,
                  stat3Value,
@@ -18,7 +18,7 @@ const Stats = ({
     <div className={styles.stats}>
       <div className={styles.stat}>
         <h3>{stat1Value}</h3>
-        <div dangerouslySetInnerHTML={{ __html: stat1LableHtml }}/>
+        <div dangerouslySetInnerHTML={{ __html: stat1LabelHtml }}/>
       </div>
       <div className={styles.stat}>
         <h3>{stat2Value}</h3>

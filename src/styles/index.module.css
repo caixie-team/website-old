@@ -15,7 +15,7 @@
     z-index: 1;
     transition: background .2s ease-in-out .2s, opacity .2s ease-in-out;
     pointer-events: none;
-    background: transparent
+    background: transparent;
 }
 
 .background.exiting canvas {
@@ -338,7 +338,7 @@
     right: 0;
     bottom: 0;
     width: 1px;
-    background: hsla(0, 0%, 100%, .05);
+    background: hsla(0, 0%, 100%, .085);
     pointer-events: none
 }
 
@@ -442,7 +442,7 @@
 }
 
 .bottom a {
-    font-size: 2rem;
+    font-size: 1.4rem;
     text-decoration: none
 }
 
@@ -458,7 +458,7 @@
 
 .bottom h4 {
     color: hsla(0, 0%, 100%, .5);
-    font-size: 1.2rem
+    font-size: 1rem
 }
 
 @media (max-width: 900px) {

@@ -1,6 +1,6 @@
 ---
 templateKey: 'project'
-sort: 2
+sort: 6
 title: "老娘舅春节集福活动"
 name: chinauff-spring
 subtitle: "h5 app 与活动运营管理系统结合的节日活动项目"
@@ -18,19 +18,19 @@ sections:
       header: 介绍
       body: 这个一套基于 Nodejs、Java 架构，自主研发的内容框架系统，可应于：电子商务平台、网络商城、资讯网站、图片站、下载站等一些基于内容管理的网络应用，全端支持 PC、手机端、微信公众平台、小程序，有完整的插件系统、API系统，模块化开发机制便于灵活扩展和二次开发
     - type: stats
-      stat1LabelHtml: "<p><strong>Reduction in app engineering time </strong>for all mobile apps</p>"
-      stat1Value: 30%
-      stat2LabelHtml: "<p><strong>Between production deployments</strong>, down from 6 months</p>" 
-      stat2Value: 2 wks
-      stat3LabelHtml: "<p><strong>Multi-platform components </strong>(work across both web and native mobile) built</p>"
-      stat3Value: 5+
+      stat1LabelHtml: "<strong>研发周期</strong>"
+      stat1Value: 2周
+      stat2LabelHtml: "服务周期"
+      stat2Value: 1月
+      stat3LabelHtml: "系统服务用户"
+      stat3Value: 10万+
     - type: image
       alt: cover
       image: /img/project-chinauffSpring_fw.png
     - type: imagegrid
       frameColor: "#202429"
       staggered: true
-      staggeredCopyHtml: "<h2>Univision <span style=\"color: #00c473\">Deportes</span></h2>\n<p>Univision's most popular mobile app, serving live streams of soccer games, live scores, leaderboards, replays, and sports news.</p>\n"
+      staggeredCopyHtml: ""
       staggeredStart: "left"
       images:
         - "/img/project-chinauffSpring_mobile_1.png"
@@ -39,7 +39,7 @@ sections:
     - type: imagegrid
       frameColor: "#202429"
       staggered: true
-      staggeredCopyHtml: "<h2> 清晰明快的 <span style=\"color: #ab2b94\">入口</span></h2>\n<p>入口页清晰的版块划分与交互让用户快速定位资源</p>\n"
+      staggeredCopyHtml: ""
       staggeredStart: right
       images:
         - "/img/project-chinauffSpring_mobile_4.png"
@@ -48,7 +48,7 @@ sections:
     - type: imagegrid
       frameColor: "#202429"
       staggered: true
-      staggeredCopyHtml: "<h2>Univision <span style=\"color: #00c473\">Deportes</span></h2>\n<p>Univision's most popular mobile app, serving live streams of soccer games, live scores, leaderboards, replays, and sports news.</p>\n"
+      staggeredCopyHtml: ""
       staggeredStart: "left"
       images:
         - "/img/project-chinauffSpring_mobile_7.png"
@@ -57,7 +57,7 @@ sections:
     - type: imagegrid
       frameColor: "#202429"
       staggered: true
-      staggeredCopyHtml: "<h2> 清晰明快的 <span style=\"color: #ab2b94\">入口</span></h2>\n<p>入口页清晰的版块划分与交互让用户快速定位资源</p>\n"
+      staggeredCopyHtml: ""
       staggeredStart: right
       images:
         - "/img/project-chinauffSpring_mobile_10.png"
@@ -73,23 +73,4 @@ sections:
       columns: 1
       images:
         - "/img/project-chinauffSpring-admin.png"
-    - type: text
-      body: "<p>电商管理系统<p>"  
-    - type: imagegrid
-      columns: 1
-      images:
-        - "/img/project-cms_case.jpg"
-    - type: text
-      body: "<p>内容协作系统<p>"  
-    - type: imagegrid
-      columns: 1
-      images:
-        - "/img/project-cms_team1.jpg"
-    - type: text
-      body: "<p>多站点管理系统<p>"  
-    - type: imagegrid
-      columns: 1
-      images:
-        - "/img/project-cms_picker3.jpg"
 ---
-

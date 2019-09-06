@@ -5,11 +5,11 @@ import VisibilitySensor from 'react-visibility-sensor';
 
 import styles from './styles.module.css';
 
-import {ReactComponent as Brush1} from '../../images/brush1.svg';
-import {ReactComponent as Brush2} from '../../images/brush2.svg';
-import {ReactComponent as Brush3} from '../../images/brush3.svg';
-import {ReactComponent as Brush4} from '../../images/brush4.svg';
-import {ReactComponent as Brush5} from '../../images/brush5.svg';
+import {ReactComponent as Brush1} from '../../img/brush1.svg';
+import {ReactComponent as Brush2} from '../../img/brush2.svg';
+import {ReactComponent as Brush3} from '../../img/brush2.svg';
+import {ReactComponent as Brush4} from '../../img/brush2.svg';
+import {ReactComponent as Brush5} from '../../img/brush2.svg';
 
 const brushes = {
   1: Brush1,

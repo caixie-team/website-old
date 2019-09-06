@@ -185,20 +185,9 @@ exports.onCreateNode = async ({node, actions, getNode, createContentDigest}) => 
     if (node.internal.type === `MarkdownRemark`
         || node.internal.type === `Mdx`) {
         // const content = await loadNodeContent(node)
-        const slug = createFilePath({node, getNode})
-        const templateKey = node.frontmatter.templateKey
-        // node.sections = node.frontmatter.sections
+        // const slug = createFilePath({node, getNode})
+        // const templateKey = node.frontmatter.templateKey
         node.sections = []
-        // if (node.frontmatter.hero) {
-        //     const absolutePath = path.join(__dirname, "/static/" + node.frontmatter.hero)
-        //     const file = getFileObject(absolutePath, node.frontmatter.hero.split("/").pop().split(".")[0])
-        //     const args = {
-        //         maxWidth: 2880,
-        //     }
-        //     const result = await fluid({file, args})
-        //     node.frontmatter.hero = result
-        // }
-        // console.log(node.frontmatter.sections)
         if (node.frontmatter.sections) {
             for (let section of node.frontmatter.sections) {
                 if (section.type === "image") {

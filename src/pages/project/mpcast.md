@@ -1,6 +1,6 @@
 ---
 templateKey: project
-sort: 1
+sort: 7
 name: mpcast
 title: 播客小程序
 subtitle: 基于微信小程序的音频课程解决方案
@@ -17,12 +17,12 @@ sections:
       header: 介绍
       body: 为课程主播提供轻量化、独立运营的播客解决方案
     - type: stats
-      stat1LabelHtml: "<p><strong>Reduction in app engineering time </strong>for all mobile apps</p>"
-      stat1Value: 30%
-      stat2LabelHtml: "<p><strong>Between production deployments</strong>, down from 6 months</p>" 
-      stat2Value: 2 wks
-      stat3LabelHtml: "<p><strong>Multi-platform components </strong>(work across both web and native mobile) built</p>"
-      stat3Value: 5+
+      stat1LabelHtml: "开发周期"
+      stat1Value: 3月
+      stat2LabelHtml: 服务周期
+      stat2Value: 1年
+      stat3LabelHtml: 服务用户
+      stat3Value: 5000+
     - type: image
       alt: mpcast
       image: /img/project-mpcast-style-0.png
@@ -42,7 +42,7 @@ sections:
     - type: imagegrid
       frameColor: "#202429"
       staggered: true
-      staggeredCopyHtml: "<h2>Univision <span style=\"color: #00c473\">Deportes</span></h2>\n<p>Univision's most popular mobile app, serving live streams of soccer games, live scores, leaderboards, replays, and sports news.</p>\n"
+      staggeredCopyHtml: ""
       staggeredStart: "left"
       images:
         - "/img/project-mpcast-4.png"
@@ -51,7 +51,7 @@ sections:
     - type: imagegrid
       frameColor: "#202429"
       staggered: true
-      staggeredCopyHtml: "<h2>Univision <span style=\"color: #00c473\">Deportes</span></h2>\n<p>Univision's most popular mobile app, serving live streams of soccer games, live scores, leaderboards, replays, and sports news.</p>\n"
+      staggeredCopyHtml: ""
       staggeredStart: "right"
       images:
         - "/img/project-mpcast-8.png"
@@ -60,7 +60,7 @@ sections:
     - type: imagegrid
       frameColor: "#202429"
       staggered: true
-      staggeredCopyHtml: "<h2>Univision <span style=\"color: #00c473\">Deportes</span></h2>\n<p>Univision's most popular mobile app, serving live streams of soccer games, live scores, leaderboards, replays, and sports news.</p>\n"
+      staggeredCopyHtml: ""
       staggeredStart: "left"
       images:
         - "/img/project-mpcast-10.png"
@@ -69,7 +69,7 @@ sections:
     - type: imagegrid
       frameColor: "#202429"
       staggered: true
-      staggeredCopyHtml: "<h2>Univision <span style=\"color: #00c473\">Deportes</span></h2>\n<p>Univision's most popular mobile app, serving live streams of soccer games, live scores, leaderboards, replays, and sports news.</p>\n"
+      staggeredCopyHtml: ""
       staggeredStart: "right"
       images:
         - "/img/project-mpcast-13.png"

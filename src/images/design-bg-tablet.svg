@@ -1,0 +1,621 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="633" height="438" viewBox="0 0 633 438">
+    <defs>
+        <rect id="a" width="12.455" height="4.29" x="9.748" rx="2.145"/>
+        <mask id="c" width="12.455" height="4.29" x="0" y="0" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <path id="b" d="M2.224 2.776c0-.304.254-.552.552-.552h9.163c.305 0 .552.254.552.552v9.163a.556.556 0 0 1-.552.552H2.776a.556.556 0 0 1-.552-.552V2.776z"/>
+        <mask id="d" width="10.267" height="10.267" x="0" y="0" fill="#fff">
+            <use xlink:href="#b"/>
+        </mask>
+        <path id="e" d="M0 0h243.354v157.681H0z"/>
+        <path id="h" d="M0 0h20.215v157.681H0z"/>
+        <filter id="g" width="189%" height="111.4%" x="-44.5%" y="-5.7%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <rect id="j" width="99.519" height="55.423" x="131.396" y="71.815" rx="1.98"/>
+        <filter id="i" width="127.1%" height="148.7%" x="-17.6%" y="-13.5%" filterUnits="objectBoundingBox">
+            <feOffset dx="-4" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
+        </filter>
+        <linearGradient id="k" x1="100%" x2="0%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="#1BCEDF"/>
+            <stop offset="100%" stop-color="#5B247A"/>
+        </linearGradient>
+        <linearGradient id="l" x1="115.496%" x2="60.508%" y1="220.626%" y2="657.89%">
+            <stop offset="0%" stop-color="#17EAD9"/>
+            <stop offset="100%" stop-color="#6078EA"/>
+        </linearGradient>
+        <linearGradient id="m" x1="370.092%" x2="75.086%" y1="0%" y2="0%">
+            <stop offset="0%" stop-color="#17EAD9"/>
+            <stop offset="100%" stop-color="#6078EA"/>
+        </linearGradient>
+        <path id="n" d="M0 0h91.171v119.834H0z"/>
+        <path id="q" d="M0 0h12.288v120.212H0z"/>
+        <filter id="p" width="246.5%" height="115%" x="-73.2%" y="-7.5%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <rect id="s" width="60.497" height="33.471" x="18.433" y="66.941" rx="1.98"/>
+        <filter id="r" width="144.6%" height="180.7%" x="-28.9%" y="-22.4%" filterUnits="objectBoundingBox">
+            <feOffset dx="-4" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
+        </filter>
+        <path id="t" d="M0 0h50.759v101H0z"/>
+        <path id="w" d="M-.608 94.387h51.126V101H-.608z"/>
+        <filter id="v" width="111.7%" height="190.7%" x="-5.9%" y="-45.4%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <rect id="y" width="36.103" height="19.752" x="7.351" y="39.504" rx=".99"/>
+        <filter id="x" width="138.8%" height="170.9%" x="-24.9%" y="-25.3%" filterUnits="objectBoundingBox">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(386 39)">
+            <rect width="216.046" height="151.032" fill="#DBE2EE" opacity=".403" rx="6.27"/>
+            <rect width="195.47" height="122.983" x="10.288" y="20.857" fill="#CCD6E6" opacity=".5" rx="3.135"/>
+        </g>
+        <g transform="translate(396.288 44.034)">
+            <circle cx="3.001" cy="4.315" r="3.001" fill="#F14235"/>
+            <circle cx="13.203" cy="4.315" r="3.001" fill="#F5A623"/>
+            <circle cx="23.405" cy="4.315" r="3.001" fill="#7BBB44"/>
+        </g>
+        <g fill="#96A9C8" transform="translate(403.198 65.3)">
+            <rect width="40.123" height="13.665" x=".384" y=".311" rx="3.135"/>
+            <rect width="23.162" height="6.692" x="75.736" y="4.157" stroke="#96A9C8" stroke-width=".5" rx="3.135"/>
+            <rect width="23.162" height="6.692" x="102.484" y="4.157" stroke="#96A9C8" stroke-width=".5" rx="3.135"/>
+            <rect width="23.162" height="6.692" x="129.233" y="4.157" stroke="#96A9C8" stroke-width=".5" rx="3.135"/>
+            <rect width="23.162" height="6.692" x="157.01" y="4.157" stroke="#96A9C8" stroke-width=".5" rx="3.135"/>
+            <rect width="53.809" height="34.022" x=".634" y="20.409" stroke="#96A9C8" stroke-width=".5" rx="3.135"/>
+            <rect width="104.836" height="4.76" x="75.49" y="20.538" stroke="#96A9C8" stroke-width=".5" rx="2.38"/>
+            <rect width="104.836" height="4.76" x="75.49" y="28.052" stroke="#96A9C8" stroke-width=".5" rx="2.38"/>
+            <rect width="104.836" height="4.76" x="75.49" y="35.566" stroke="#96A9C8" stroke-width=".5" rx="2.38"/>
+            <rect width="104.836" height="4.76" x="75.49" y="43.08" stroke="#96A9C8" stroke-width=".5" rx="2.38"/>
+            <rect width="65.066" height="4.008" x="75.49" y="50.594" stroke="#96A9C8" stroke-width=".5" rx="2.004"/>
+            <rect width="53.809" height="34.022" x="127.467" y="66.245" stroke="#96A9C8" stroke-width=".5" rx="3.135"/>
+            <rect width="104.836" height="4.76" x="1.325" y="66.374" stroke="#96A9C8" stroke-width=".5" rx="2.38"/>
+            <rect width="104.836" height="4.76" x="1.325" y="73.888" stroke="#96A9C8" stroke-width=".5" rx="2.38"/>
+            <rect width="104.836" height="4.76" x="1.325" y="81.402" stroke="#96A9C8" stroke-width=".5" rx="2.38"/>
+            <rect width="104.836" height="4.76" x="1.325" y="88.916" stroke="#96A9C8" stroke-width=".5" rx="2.38"/>
+            <rect width="104.836" height="4.76" x="1.325" y="96.43" stroke="#96A9C8" stroke-width=".5" rx="2.38"/>
+            <rect width="65.066" height="4.008" x="1.325" y="103.944" stroke="#96A9C8" stroke-width=".5" rx="2.004"/>
+        </g>
+        <path fill="#152034" fill-opacity=".7" fill-rule="nonzero" d="M447.879 223.248h38.456v47.8h-38.456z"/>
+        <text fill="#FFF" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.726" transform="translate(447.5 223)">
+            <tspan x="7.009" y="33.392">Crowdlinker </tspan> <tspan x="7.009" y="36.392">Navy</tspan> <tspan x="7.009" y="39.392">#152034</tspan>
+        </text>
+        <path fill="#000" fill-opacity=".7" fill-rule="nonzero" d="M387.063 223h38.426v47.8h-38.426z"/>
+        <text fill="#FFF" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.726" transform="translate(387 223)">
+            <tspan x="7.004" y="32.896">Crowdlinker Black</tspan> <tspan x="7.004" y="35.896">#000000</tspan>
+        </text>
+        <path fill="#2A3E64" fill-opacity=".7" fill-rule="nonzero" d="M509.416 223.248h38.456v47.8h-38.456z"/>
+        <text fill="#FFF" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.726" transform="translate(509.1 223)">
+            <tspan x="6.504" y="33.392">Crowdlinker </tspan> <tspan x="6.504" y="36.392">Whjfdhs</tspan> <tspan x="6.504" y="39.392">#2A3E64</tspan>
+        </text>
+        <path fill="#FC544C" fill-opacity=".7" fill-rule="nonzero" d="M410.1 292.548h38.426v47.8H410.1z"/>
+        <text fill="#FFF" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.726" transform="translate(410.1 292.3)">
+            <tspan x="6.625" y="32.958">Crowdlinker Coral</tspan> <tspan x="6.625" y="35.958">#FC544C</tspan>
+        </text>
+        <g>
+            <path fill="#ED6663" fill-opacity=".7" fill-rule="nonzero" d="M471.168 292.548h38.456v47.8h-38.456z"/>
+            <text fill="#FFF" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.726" transform="translate(470.6 292.3)">
+                <tspan x="7.641" y="33.392">Crowdlinker </tspan> <tspan x="7.641" y="36.392">Accent</tspan> <tspan x="7.641" y="39.392">#ED6663</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#FDA4A0" fill-opacity=".7" fill-rule="nonzero" d="M532.705 292.548h38.456v47.8h-38.456z"/>
+            <text fill="#4A4A4A" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.726" transform="translate(532.2 292.3)">
+                <tspan x="6.693" y="33.392">Crowdlinker Coral</tspan> <tspan x="6.693" y="36.392">#FDA4A0</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#FFF" fill-opacity=".8" fill-rule="nonzero" stroke="#9E9E9E" stroke-opacity=".5" stroke-width=".55" d="M594.517 292.823h37.906v47.25h-37.906z"/>
+            <text fill="#9B9B9B" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.726" transform="translate(593.8 292.3)">
+                <tspan x="8.398" y="33.392">Crowdlinker </tspan> <tspan x="8.398" y="36.392">White</tspan> <tspan x="8.398" y="39.392">#FFFFFF</tspan>
+            </text>
+        </g>
+        <g opacity=".505">
+            <g transform="translate(.73 45)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="translate(12.009 104.268)">
+                <rect width="19.3" height="19.3" x=".25" y=".25" fill="#EEF2F6" stroke="#B8C5D0" stroke-width=".5" rx=".55"/>
+                <path fill="#89969F" d="M10.728 6.814l-.082-.081c-.087-.087-.064-.193.057-.24l.687-.262c.06-.023.091.002.066.066l-.263.687c-.045.118-.158.138-.239.057l-.07-.071-2.555 2.555a.11.11 0 1 1-.156-.156l2.555-2.555z"/>
+                <text fill="#89969F" font-family="Roboto-Bold, Roboto" font-size="1.21" font-weight="bold" letter-spacing=".02">
+                    <tspan x="6.289" y="15.789">External link</tspan>
+                </text>
+            </g>
+            <g transform="translate(185.679)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="matrix(0 1 1 0 215.266 37.818)">
+                <path stroke="#89969F" stroke-width=".5" d="M.33.33h14.3c.612 0 1.108.498 1.108 1.104v94.623c0 .61.5 1.104 1.105 1.104H30.76"/>
+                <circle cx=".66" cy=".33" r="1" fill="#FFF" stroke="#89969F" stroke-width=".5"/>
+                <path fill="#89969F" d="M30.596 97.491v-.66l.33.33z"/>
+            </g>
+            <g transform="matrix(-1 0 0 1 185.95 18.659)">
+                <path stroke="#89969F" stroke-linecap="square" stroke-width=".5" d="M.11.775h14.973"/>
+                <circle cx=".275" cy=".775" r="1" fill="#FFF" stroke="#89969F" stroke-width=".5"/>
+                <path fill="#89969F" d="M14.9 1.05V.5l.33.275z"/>
+            </g>
+            <g transform="translate(150.721 10.976)">
+                <rect width="19.056" height="19.056" x=".25" y=".25" fill="#EEF2F6" stroke="#B8C5D0" stroke-width=".5" rx=".55"/>
+                <path fill="#89969F" d="M17.657 1.856l.06-.06c.2-.2.492-.225.657-.06l-.298-.298c.135.135.137.459-.061.657l-.06.06.06.059c.198.198.196.522.06.657l.299-.298c-.165.164-.456.14-.657-.061l-.06-.06-.06.06c-.2.201-.492.225-.656.06l.298.299c-.135-.135-.138-.459.06-.657l.06-.06-.06-.06c-.198-.197-.195-.521-.06-.656l-.298.298c.164-.165.456-.14.657.06l.06.06z"/>
+            </g>
+            <g transform="translate(216.774 18.659)">
+                <path stroke="#89969F" stroke-linecap="square" stroke-width=".5" d="M.11.775H32.3"/>
+                <circle cx=".275" cy=".775" r="1" fill="#FFF" stroke="#89969F" stroke-width=".5"/>
+                <path fill="#89969F" d="M32.162 1.05V.5l.33.275z"/>
+            </g>
+            <g transform="translate(246.228)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="rotate(90 80.948 120.412)">
+                <path stroke="#89969F" stroke-linecap="square" stroke-width=".5" d="M.11.775H32.3"/>
+                <circle cx=".275" cy=".775" r="1" fill="#FFF" stroke="#89969F" stroke-width=".5"/>
+                <path fill="#89969F" d="M32.162 1.05V.5l.33.275z"/>
+            </g>
+            <g transform="translate(185.679 70.244)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="translate(246.228 70.244)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="translate(214.573 66.951)">
+                <ellipse cx="4.21" cy="3.46" fill="#15BDF4" rx="4.21" ry="3.46"/>
+                <text fill="#FFF" font-family="Roboto-Bold, Roboto" font-size="1.21" font-weight="bold" letter-spacing=".02">
+                    <tspan x="3.438" y="3.125">1</tspan>
+                </text>
+            </g>
+            <g transform="translate(203.564 113.049)">
+                <path fill="#B8C5D0" d="M0 .558C0 .25.247 0 .55 0h12.486a.55.55 0 0 1 .549.558v18.217a.555.555 0 0 1-.55.558H.55A.55.55 0 0 1 0 18.774V.558z"/>
+                <path fill="#EEF2F6" d="M0 .77h13.585v18.007a.553.553 0 0 1-.55.555H.55A.552.552 0 0 1 0 18.777V.77z"/>
+                <ellipse cx=".464" cy=".41" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx=".845" cy=".41" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.227" cy=".41" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="translate(203.564 137.195)">
+                <path fill="#B8C5D0" d="M0 .558C0 .25.247 0 .55 0h12.486a.55.55 0 0 1 .549.558v18.217a.555.555 0 0 1-.55.558H.55A.55.55 0 0 1 0 18.774V.558z"/>
+                <path fill="#EEF2F6" d="M0 .77h13.585v18.007a.553.553 0 0 1-.55.555H.55A.552.552 0 0 1 0 18.777V.77z"/>
+                <ellipse cx=".464" cy=".41" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx=".845" cy=".41" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.227" cy=".41" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="translate(203.564 161.341)">
+                <path fill="#B8C5D0" d="M0 .558C0 .25.247 0 .55 0h12.486a.55.55 0 0 1 .549.558v18.217a.555.555 0 0 1-.55.558H.55A.55.55 0 0 1 0 18.774V.558z"/>
+                <path fill="#EEF2F6" d="M0 .77h13.585v18.007a.553.553 0 0 1-.55.555H.55A.552.552 0 0 1 0 18.777V.77z"/>
+                <ellipse cx=".464" cy=".41" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx=".845" cy=".41" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.227" cy=".41" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="translate(187.05 107.561)">
+                <path stroke="#89969F" stroke-width=".5" d="M.33 0v13.429c0 .602.489 1.091 1.097 1.091h15.236"/>
+                <circle cx=".33" cy=".33" r="1" fill="#FFF" stroke="#89969F" stroke-width=".5"/>
+                <path fill="#89969F" d="M16.5 14.85v-.66l.33.33z"/>
+            </g>
+            <path stroke="#89969F" stroke-width=".5" d="M187.05 118.537v28.272c0 .606.498 1.098 1.097 1.098h12.88"/>
+            <path fill="#89969F" d="M200.863 148.237v-.66l.33.33z"/>
+            <path stroke="#89969F" stroke-width=".5" d="M187.05 144.878v25.3c0 .607.498 1.1 1.097 1.1h12.88"/>
+            <path fill="#89969F" d="M200.863 171.608v-.66l.33.33z"/>
+            <g stroke="#89969F" transform="translate(156.226 87.805)">
+                <path stroke-dasharray=".33" stroke-linecap="square" stroke-width=".5" d="M.11 2.145H32.3"/>
+                <circle cx="32.217" cy="2.145" r="1" fill="#FFF" stroke-width=".5"/>
+                <circle cx=".275" cy="2.145" r="1" fill="#FFF" stroke-width=".5"/>
+                <use fill="#FFF" stroke-dasharray=".33" mask="url(#c)" xlink:href="#a"/>
+            </g>
+            <g transform="translate(124.029 70.244)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="translate(152.923 66.951)">
+                <ellipse cx="4.21" cy="3.46" fill="#FB7C38" rx="4.21" ry="3.46"/>
+                <text fill="#FFF" font-family="Roboto-Bold, Roboto" font-size="1.21" font-weight="bold" letter-spacing=".02">
+                    <tspan x="3.438" y="3.125">2</tspan>
+                </text>
+            </g>
+            <g transform="translate(124.029 122.927)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="rotate(90 19.626 126.457)">
+                <path stroke="#89969F" stroke-linecap="square" stroke-width=".5" d="M.11 5.54h15.469"/>
+                <circle cx=".275" cy="5.539" r="1" fill="#FFF" stroke="#89969F" stroke-width=".5"/>
+                <path fill="#89969F" d="M15.51 5.814v-.55l.33.275z"/>
+                <path fill="#FFF" stroke="#89969F" stroke-width=".5" d="M7.92 10.71c.814 0 1.466-.654 1.466-1.467V1.836c0-.815-.654-1.468-1.466-1.468-.814 0-1.466.655-1.466 1.468v7.407c0 .815.654 1.468 1.466 1.468z"/>
+            </g>
+            <g transform="matrix(-1 0 0 1 125.4 63.659)">
+                <path stroke="#89969F" stroke-width=".5" d="M32.653.33H7.808C7.202.33 6.71.817 6.71 1.439V50.04c0 .613.495 1.109 1.098 1.109h24.845M6.767 25.89H.11"/>
+                <circle cx=".44" cy="25.74" r="1" fill="#FFF" stroke="#89969F" stroke-width=".5"/>
+                <path fill="#89969F" d="M32.433.66V0l.33.33zM32.433 51.48v-.66l.33.33z"/>
+            </g>
+            <g transform="translate(62.38 45)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="translate(62.38 94.39)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="matrix(-1 0 0 1 62.65 63.659)">
+                <path stroke="#89969F" stroke-linecap="square" stroke-width=".5" d="M.11.775H32.3"/>
+                <circle cx=".275" cy=".775" r="1" fill="#FFF" stroke="#89969F" stroke-width=".5"/>
+                <path fill="#89969F" d="M32.162 1.05V.5l.33.275z"/>
+            </g>
+            <g transform="matrix(-1 0 0 1 62.65 111.951)">
+                <path stroke="#89969F" stroke-linecap="square" stroke-width=".5" d="M.11.775H32.3"/>
+                <circle cx=".275" cy=".775" r="1" fill="#FFF" stroke="#89969F" stroke-width=".5"/>
+                <path fill="#89969F" d="M32.162 1.05V.5l.33.275z"/>
+            </g>
+            <g stroke="#89969F" stroke-width=".5" transform="translate(216.774 88.902)">
+                <path stroke-linecap="square" d="M.11.775H32.3"/>
+                <circle cx="32.217" cy=".775" r="1" fill="#FFF"/>
+                <circle cx=".275" cy=".775" r="1" fill="#FFF"/>
+            </g>
+            <g transform="translate(293.566 70.244)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <g transform="translate(293.566 138.293)">
+                <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+            </g>
+            <path stroke="#89969F" stroke-width=".5" d="M300.525 54.855h53.015c.61 0 1.105.497 1.105 1.096v12.88"/>
+            <path fill="#89969F" d="M354.975 68.668h-.66l.33.33z"/>
+            <g>
+                <g transform="translate(339.803 70.244)">
+                    <rect width="32.653" height="36.882" x=".109" fill="#B8C5D0" rx=".55"/>
+                    <path fill="#EEF2F6" d="M.11 1.64h32.652v34.689a.551.551 0 0 1-.553.553H.662a.55.55 0 0 1-.553-.553V1.639z"/>
+                    <ellipse cx=".927" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                    <ellipse cx="1.691" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                    <ellipse cx="2.455" cy=".82" fill="#DEE7EE" rx="1" ry="1"/>
+                </g>
+            </g>
+            <g>
+                <g transform="rotate(90 100.319 208.929)">
+                    <path stroke="#89969F" stroke-linecap="square" stroke-width=".5" d="M.11.775H32.3"/>
+                    <circle cx=".275" cy=".775" r="1" fill="#FFF" stroke="#89969F" stroke-width=".5"/>
+                    <path fill="#89969F" d="M32.162 1.05V.5l.33.275z"/>
+                </g>
+            </g>
+            <g fill="#EEF2F6" stroke="#B8C5D0" stroke-dasharray=".33">
+                <use mask="url(#d)" transform="rotate(-45 297.241 -299.015)" xlink:href="#b"/>
+            </g>
+        </g>
+        <g>
+            <g transform="translate(345 108)">
+                <rect width="57.384" height="105.711" fill="#DBE2EE" opacity=".495" rx="6.27"/>
+                <path fill="#CCD6E6" d="M0 9.508h57.384V90.05H0z" opacity=".716"/>
+                <rect width="14.516" height="1.178" x="21.702" y="4.725" stroke="#96A9C8" stroke-width=".5" rx=".589"/>
+                <ellipse cx="28.96" cy="98.44" stroke="#96A9C8" stroke-width=".5" rx="4.29" ry="4.475"/>
+                <rect width="18.79" height="9.517" x="4.027" y="15.281" fill="#96A9C8" rx="3.135"/>
+                <rect width="11.081" height="5.009" x="40.773" y="17.793" fill="#96A9C8" rx="2.504"/>
+                <rect width="47.64" height="24.043" x="4.207" y="28.17" fill="#96A9C8" rx="3.135"/>
+                <g fill="#96A9C8" transform="translate(4.027 55.472)">
+                    <rect width="49.33" height="3.663" rx="1.832"/>
+                    <rect width="49.33" height="3.663" y="5.233" rx="1.832"/>
+                    <rect width="49.33" height="3.663" y="10.466" rx="1.832"/>
+                    <rect width="49.33" height="3.663" y="15.7" rx="1.832"/>
+                    <rect width="49.33" height="3.663" y="20.933" rx="1.832"/>
+                    <rect width="30.705" height="3.14" y="26.166" rx="1.57"/>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(76 220)">
+            <rect width="265.76" height="179.729" x="34.968" y="1.167" fill="#FFF" fill-rule="nonzero" rx="7.26"/>
+            <path fill="#FFF" fill-rule="nonzero" d="M11.67 191.4h310.026c5.801 0 10.504-4.703 10.504-10.504H1.166c0 5.801 4.702 10.504 10.503 10.504z"/>
+            <path fill="#DADADA" fill-rule="nonzero" d="M289.38 1.49c6.097 0 11.042 5.006 11.042 11.18V170.56c0 6.175-4.946 11.18-11.046 11.18a.742.742 0 0 0-.745.745c0 .411.33.744.736.744 6.923 0 12.527-5.672 12.527-12.669V12.67C301.894 5.674 296.29 0 289.379 0h-14.724a.74.74 0 0 0-.736.745c0 .411.33.745.736.745h14.724zM45.152 0c-6.911 0-12.515 5.674-12.515 12.67V170.56c0 6.997 5.605 12.67 12.519 12.67a.742.742 0 0 0 .744-.745.74.74 0 0 0-.736-.745c-6.11 0-11.054-5.005-11.054-11.18V12.67c0-6.173 4.944-11.18 11.042-11.18h14.724a.74.74 0 0 0 .736-.744.74.74 0 0 0-.736-.745H45.152z"/>
+            <path fill="#DADADA" fill-rule="nonzero" d="M288.776 14.597l-.296 156.667-242.725-.297.297-156.666 242.724.296zM45.459 171.264l243.317.296.296-157.259-243.317-.296-.296 157.259z"/>
+            <path fill="#DADADA" d="M45.459 0h244.779v1.167H45.459zM2.331 180.896H329.87v1.751H2.33zM45.459 190.233h244.779v1.167H45.459z"/>
+            <path fill="#DADADA" fill-rule="nonzero" d="M.866 180.896H.258l-.12.563c-.018.089-.044.24-.068.445-.182 1.51-.03 3.208.716 4.834.257.56.579 1.089.97 1.58.883 1.112 2.28 1.887 4.04 2.398 1.034.3 2.133.492 3.232.599a19.42 19.42 0 0 0 1.48.085h38.448V190H10.508a14.9 14.9 0 0 1-1.33-.078 16.297 16.297 0 0 1-2.946-.544c-1.488-.432-2.625-1.063-3.29-1.9a6.31 6.31 0 0 1-.795-1.297c-.627-1.368-.758-2.832-.604-4.119.02-.164.04-.277.05-.328l-.727.563h43.64v-1.4H.866zM330.178 182.297l-.719-.563c.01.051.03.164.05.328.152 1.287.023 2.751-.598 4.119-.21.461-.47.895-.786 1.298-.657.836-1.782 1.467-3.252 1.899-.922.27-1.917.446-2.915.544-.598.058-1.06.078-1.313.078h-37.4v1.4h37.4c.08 0 .22-.003.414-.01.317-.014.67-.038 1.05-.075a17.443 17.443 0 0 0 3.195-.599c1.74-.511 3.121-1.286 3.994-2.397a7.707 7.707 0 0 0 .959-1.581c.738-1.626.888-3.324.709-4.834a5.47 5.47 0 0 0-.069-.445l-.118-.563h-41.668v1.4h41.067z"/>
+            <g transform="translate(45.459 14.005)">
+                <mask id="f" fill="#fff">
+                    <use xlink:href="#e"/>
+                </mask>
+                <use fill="#29292E" fill-rule="nonzero" xlink:href="#e"/>
+                <g fill-rule="nonzero" mask="url(#f)">
+                    <use fill="#000" filter="url(#g)" xlink:href="#h"/>
+                    <use fill="#29292E" xlink:href="#h"/>
+                </g>
+                <path fill="#455292" fill-rule="nonzero" d="M0 0h20.215v17.954H0z" mask="url(#f)"/>
+                <text fill="#FFF" font-family="FontAwesome" font-size="7.26" mask="url(#f)">
+                    <tspan x="5.442" y="12.948"></tspan>
+                </text>
+                <rect width="38.992" height="7.927" x="79.634" y="20.626" stroke="#565656" stroke-width=".66" mask="url(#f)" rx="3.63"/>
+                <text fill="#A2A2A2" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5.94" letter-spacing=".132" mask="url(#f)">
+                    <tspan x="41.984" y="25.899">Overvie</tspan> <tspan x="59.606" y="25.899">w</tspan>
+                </text>
+                <text fill="#A2A2A2" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5.94" letter-spacing=".132" mask="url(#f)">
+                    <tspan x="42.975" y="127.377">50%</tspan>
+                </text>
+                <text fill="#9B9B9B" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.3" letter-spacing=".066" mask="url(#f)">
+                    <tspan x="45.228" y="132.982">CPU</tspan>
+                </text>
+                <text fill="#9B9B9B" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.3" letter-spacing=".066" mask="url(#f)">
+                    <tspan x="41.984" y="33.065">Dec 14th-18th</tspan>
+                </text>
+                <text fill="#4E4E4E" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.3" letter-spacing=".066" mask="url(#f)">
+                    <tspan x="82.414" y="26.039">Type:</tspan>
+                </text>
+                <text fill="#ACACAC" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.3" letter-spacing=".066" mask="url(#f)">
+                    <tspan x="92.521" y="26.039">Active</tspan>
+                </text>
+                <path stroke="#979797" stroke-width=".66" d="M112.666 24.199l.978.982.98-.982" mask="url(#f)"/>
+                <path stroke="#5E5E5E" stroke-width=".66" d="M24.102 77.67H235.58" mask="url(#f)"/>
+                <path stroke="#646464" stroke-width=".66" d="M53.647 80.402v2.589h23.722V80.4M108.849 80.402v2.589h40.049V80.4" mask="url(#f)"/>
+                <path stroke="#3B3A3A" stroke-width=".66" d="M24.102 62.058H235.58M24.102 46.446H235.58" mask="url(#f)"/>
+                <path fill="#5D71D2" fill-rule="nonzero" d="M42.762 46.836h1.555v30.443h-1.555zM53.647 56.203h1.555v21.076h-1.555zM61.422 52.3h1.555v24.979h-1.555zM69.197 74.938h1.555v2.342h-1.555zM76.971 69.473h1.555v7.806h-1.555z" mask="url(#f)"/>
+                <path fill="#E67100" fill-rule="nonzero" d="M84.746 78.06h1.555v18.734h-1.555z" mask="url(#f)"/>
+                <path fill="#5D71D2" fill-rule="nonzero" d="M92.521 71.815h1.555v5.464h-1.555zM100.296 64.79h1.555v12.49h-1.555zM108.071 43.714h1.555V77.28h-1.555zM115.846 58.545h1.555v18.734h-1.555zM123.621 60.887h1.555V77.28h-1.555zM131.396 71.035h1.555v6.245h-1.555zM139.171 71.815h1.555v5.464h-1.555zM146.945 58.545h1.555v18.734h-1.555zM154.72 53.861h1.555v23.418h-1.555zM162.495 71.815h1.555v5.464h-1.555zM170.27 64.009h1.555v13.27h-1.555zM178.045 72.596h1.555v4.684h-1.555zM185.82 67.912h1.555v9.367h-1.555zM193.595 46.055h1.555v31.224h-1.555zM201.37 69.473h1.555v7.806h-1.555zM209.145 65.57h1.555v11.709h-1.555zM216.92 58.545h1.555v18.734h-1.555zM224.694 58.545h1.555v18.734h-1.555z" mask="url(#f)"/>
+                <path fill="#E67100" fill-rule="nonzero" d="M48.204 78.06h1.555v10.928h-1.555z" mask="url(#f)"/>
+                <ellipse cx="47.816" cy="127.628" stroke="#5E5E5E" stroke-width=".66" mask="url(#f)" rx="17.494" ry="17.563"/>
+                <ellipse cx="47.816" cy="127.628" stroke="#5E5E5E" stroke-width=".66" mask="url(#f)" rx="15.161" ry="15.222"/>
+                <g fill-rule="nonzero" mask="url(#f)">
+                    <use fill="#000" filter="url(#i)" xlink:href="#j"/>
+                    <use fill="#3E3E44" xlink:href="#j"/>
+                </g>
+                <path fill="url(#k)" fill-rule="nonzero" d="M47.816 112.406v-2.341c-9.662 0-17.494 7.863-17.494 17.563s7.832 17.564 17.494 17.564v-2.342c-8.374 0-15.161-6.815-15.161-15.222s6.787-15.222 15.16-15.222z" mask="url(#f)"/>
+                <text fill="#A2A2A2" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5.94" letter-spacing=".132" mask="url(#f)">
+                    <tspan x="97.696" y="127.377">37%</tspan>
+                </text>
+                <text fill="#9B9B9B" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.3" letter-spacing=".066" mask="url(#f)">
+                    <tspan x="99.652" y="132.982">CPU</tspan>
+                </text>
+                <ellipse cx="102.24" cy="127.628" stroke="#5E5E5E" stroke-width=".66" mask="url(#f)" rx="17.494" ry="17.563"/>
+                <ellipse cx="102.24" cy="127.628" stroke="#5E5E5E" stroke-width=".66" mask="url(#f)" rx="15.161" ry="15.222"/>
+                <path fill="url(#k)" fill-rule="nonzero" d="M91.472 138.343l-.902 2.37a17.55 17.55 0 0 1-5.824-13.085c0-9.7 7.832-17.563 17.494-17.563l-.902 2.368c-7.953.468-14.26 7.092-14.26 15.195 0 4.179 1.678 7.965 4.394 10.715zm10.768 6.849v-2.342 2.342z" mask="url(#f)"/>
+                <text fill="#D5D5D5" font-family="FontAwesome" font-size="4.62" mask="url(#f)">
+                    <tspan x="7.775" y="32.604"></tspan>
+                </text>
+                <text fill="#747474" font-family="FontAwesome" font-size="4.62" mask="url(#f)">
+                    <tspan x="7.775" y="48.606"></tspan>
+                </text>
+                <text fill="#747474" font-family="LastResort, .LastResort" font-size="4.62" mask="url(#f)">
+                    <tspan x="7.775" y="64.609"></tspan>
+                </text>
+                <text fill="#FFF" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.96" letter-spacing=".088" mask="url(#f)">
+                    <tspan x="143.145" y="83.804">Total Users</tspan>
+                </text>
+                <path fill="url(#l)" fill-rule="nonzero" d="M167.938 81.963h52.092v1.561h-52.092z" mask="url(#f)"/>
+                <path fill="#9E9E9E" fill-opacity=".5" fill-rule="nonzero" d="M167.938 92.891h52.092v1.561h-52.092zM167.938 103.82h52.092v1.561h-52.092zM167.938 113.968h52.092v1.561h-52.092z" mask="url(#f)"/>
+                <path fill="url(#l)" fill-rule="nonzero" d="M167.938 92.891h31.1v1.561h-31.1z" mask="url(#f)"/>
+                <path fill="url(#m)" fill-rule="nonzero" d="M167.938 103.82h15.55v1.561h-15.55z" mask="url(#f)"/>
+                <path fill="url(#l)" fill-rule="nonzero" d="M167.938 113.968h41.984v1.561h-41.984z" mask="url(#f)"/>
+                <text fill="#747474" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.96" letter-spacing=".088" mask="url(#f)">
+                    <tspan x="142.903" y="94.732">Requests</tspan>
+                </text>
+                <text fill="#747474" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.96" letter-spacing=".088" mask="url(#f)">
+                    <tspan x="142.999" y="105.661">Timeouts</tspan>
+                </text>
+                <text fill="#747474" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.96" letter-spacing=".088" mask="url(#f)">
+                    <tspan x="143.046" y="116.589">Terminated</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(28 281)">
+            <rect width="104.5" height="145.13" y="1.17" fill="#FFF" fill-rule="nonzero" rx="6.6"/>
+            <path fill="#DADADA" fill-rule="nonzero" d="M56.12 139.563c0-2.127-1.732-3.85-3.87-3.85s-3.87 1.723-3.87 3.85c0 2.126 1.732 3.85 3.87 3.85s3.87-1.724 3.87-3.85zm-6.773 0c0-1.595 1.3-2.888 2.903-2.888a2.895 2.895 0 0 1 2.903 2.887c0 1.595-1.3 2.888-2.903 2.888a2.895 2.895 0 0 1-2.903-2.887zM5.806 12.897l.387-.386v121.275l-.387-.385h92.888l-.387.386V12.511l.387.386H5.806zm92.888-.386v121.275H5.806V12.512h92.888zM.968 141.495c0 2.121 1.73 3.843 3.863 3.843h94.838a3.85 3.85 0 0 0 3.863-3.843V4.805c0-2.121-1.73-3.842-3.863-3.842H4.831A3.85 3.85 0 0 0 .968 4.804v136.69zM4.83 0h94.838c2.668 0 4.831 2.153 4.831 4.805v136.69c0 2.654-2.159 4.805-4.83 4.805H4.83c-2.667 0-4.83-2.153-4.83-4.805V4.805C0 2.151 2.159 0 4.83 0zm48.387 7.7c.534 0 .967-.43.967-.963a.965.965 0 0 0-.967-.962.965.965 0 0 0-.968.962c0 .532.433.963.968.963z"/>
+            <g transform="translate(5.806 12.874)">
+                <mask id="o" fill="#fff">
+                    <use xlink:href="#n"/>
+                </mask>
+                <use fill="#29292E" fill-rule="nonzero" xlink:href="#n"/>
+                <g fill-rule="nonzero" mask="url(#o)">
+                    <use fill="#000" filter="url(#p)" xlink:href="#q"/>
+                    <use fill="#29292E" xlink:href="#q"/>
+                </g>
+                <path fill="#455292" fill-rule="nonzero" d="M0 0h12.288v10.843H0z" mask="url(#o)"/>
+                <text fill="#FFF" font-family="FontAwesome" font-size="7.26" mask="url(#o)">
+                    <tspan x="3.308" y="8.684"></tspan>
+                </text>
+                <rect width="23.444" height="4.526" x="48.539" y="12.587" stroke="#565656" stroke-width=".66" mask="url(#o)" rx="2.263"/>
+                <text fill="#A2A2A2" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5.94" letter-spacing=".132" mask="url(#o)">
+                    <tspan x="25.522" y="16.335">Overvi</tspan> <tspan x="25.522" y="23.335">e</tspan> <tspan x="28.119" y="23.335">w</tspan>
+                </text>
+                <text fill="#A2A2A2" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5.94" letter-spacing=".132" mask="url(#o)">
+                    <tspan x="26.139" y="117.197">50</tspan> <tspan x="27.238" y="124.197">%</tspan>
+                </text>
+                <text fill="#9B9B9B" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.3" letter-spacing=".066" mask="url(#o)">
+                    <tspan x="27.442" y="121.341">CP</tspan> <tspan x="28.188" y="125.341">U</tspan>
+                </text>
+                <text fill="#9B9B9B" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.3" letter-spacing=".066" mask="url(#o)">
+                    <tspan x="25.522" y="20.363">Dec </tspan> <tspan x="25.522" y="24.363">14th-18th</tspan>
+                </text>
+                <text fill="#4E4E4E" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.3" letter-spacing=".066" mask="url(#o)">
+                    <tspan x="50.099" y="15.477">Typ</tspan> <tspan x="50.099" y="19.477">e:</tspan>
+                </text>
+                <text fill="#ACACAC" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.3" letter-spacing=".066" mask="url(#o)">
+                    <tspan x="56.243" y="16.12">Activ</tspan> <tspan x="56.243" y="20.12">e</tspan>
+                </text>
+                <path stroke="#979797" stroke-width=".66" d="M68.49 14.614l.594.593.595-.593" mask="url(#o)"/>
+                <path stroke="#5E5E5E" stroke-width=".66" d="M14.652 46.906h79.402" mask="url(#o)"/>
+                <path stroke="#646464" stroke-width=".66" d="M25.522 53.27v1.092h9.38V53.27M72.313 50.913v1.564h19.763v-1.564" mask="url(#o)"/>
+                <path stroke="#3B3A3A" stroke-width=".66" d="M14.652 37.478h79.402M14.652 28.05h79.402" mask="url(#o)"/>
+                <path fill="#5D71D2" fill-rule="nonzero" d="M21.741 28.285h1V46.67h-1zM25.522 33.942h1V46.67h-1zM28.831 31.585h1V46.67h-1zM31.666 45.256h1v1.414h-1zM34.502 41.956h1v4.714h-1z" mask="url(#o)"/>
+                <path fill="#E67100" fill-rule="nonzero" d="M37.338 47.142h1v11.314h-1z" mask="url(#o)"/>
+                <path fill="#5D71D2" fill-rule="nonzero" d="M40.174 43.37h1v3.3h-1zM43.482 39.128h1v7.543h-1zM46.318 26.399h1V46.67h-1zM49.154 35.356h1V46.67h-1zM51.99 36.771h1v9.9h-1zM54.825 42.899h1v3.771h-1zM57.661 43.37h1v3.3h-1zM60.97 35.356h1V46.67h-1zM63.805 32.528h1v14.143h-1zM66.641 43.37h1v3.3h-1zM69.477 38.656h1v8.014h-1z" mask="url(#o)"/>
+                <path fill="#E67100" fill-rule="nonzero" d="M72.313 47.142h1v2.829h-1z" mask="url(#o)"/>
+                <path fill="#5D71D2" fill-rule="nonzero" d="M75.149 41.013h1v5.657h-1zM78.457 27.814h1v18.857h-1zM81.293 41.956h1v4.714h-1zM84.129 39.599h1v7.071h-1zM86.964 35.356h1V46.67h-1zM89.8 35.356h1V46.67h-1z" mask="url(#o)"/>
+                <path fill="#E67100" fill-rule="nonzero" d="M23.632 47.142h1v6.6h-1z" mask="url(#o)"/>
+                <ellipse cx="29.067" cy="117.619" stroke="#5E5E5E" stroke-width=".66" mask="url(#o)" rx="10.634" ry="10.607"/>
+                <ellipse cx="29.067" cy="117.619" stroke="#5E5E5E" stroke-width=".66" mask="url(#o)" rx="9.216" ry="9.193"/>
+                <g fill-rule="nonzero" mask="url(#o)">
+                    <use fill="#000" filter="url(#r)" xlink:href="#s"/>
+                    <use fill="#3E3E44" xlink:href="#s"/>
+                </g>
+                <path fill="url(#k)" fill-rule="nonzero" d="M29.067 108.426v-1.414c-5.873 0-10.634 4.749-10.634 10.607s4.76 10.607 10.634 10.607v-1.415c-5.09 0-9.216-4.115-9.216-9.192s4.126-9.193 9.216-9.193z" mask="url(#o)"/>
+                <text fill="#A2A2A2" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5.94" letter-spacing=".132" mask="url(#o)">
+                    <tspan x="59.52" y="117.197">37</tspan> <tspan x="60.323" y="124.197">%</tspan>
+                </text>
+                <text fill="#9B9B9B" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.3" letter-spacing=".066" mask="url(#o)">
+                    <tspan x="60.526" y="121.341">CP</tspan> <tspan x="61.272" y="125.341">U</tspan>
+                </text>
+                <ellipse cx="62.151" cy="117.619" stroke="#5E5E5E" stroke-width=".66" mask="url(#o)" rx="10.634" ry="10.607"/>
+                <ellipse cx="62.151" cy="117.619" stroke="#5E5E5E" stroke-width=".66" mask="url(#o)" rx="9.216" ry="9.193"/>
+                <path fill="url(#k)" fill-rule="nonzero" d="M62.151 108.426v-1.414c-5.873 0-10.634 4.749-10.634 10.607s4.761 10.607 10.634 10.607v-1.415c-5.09 0-9.216-4.115-9.216-9.192s4.126-9.193 9.216-9.193z" mask="url(#o)"/>
+                <text fill="#D5D5D5" font-family="FontAwesome" font-size="4.62" mask="url(#o)">
+                    <tspan x="4.726" y="20.211"></tspan>
+                </text>
+                <text fill="#747474" font-family="FontAwesome" font-size="4.62" mask="url(#o)">
+                    <tspan x="4.726" y="29.875"></tspan>
+                </text>
+                <text fill="#747474" font-family="LastResort, .LastResort" font-size="4.62" mask="url(#o)">
+                    <tspan x="4.726" y="39.539"></tspan>
+                </text>
+                <text fill="#FFF" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.96" letter-spacing=".088" mask="url(#o)">
+                    <tspan x="26.886" y="74.5">Total </tspan> <tspan x="26.478" y="78.5">Users</tspan>
+                </text>
+                <path fill="url(#l)" fill-rule="nonzero" d="M40.646 73.07h31.666v1H40.646z" mask="url(#o)"/>
+                <path fill="#9E9E9E" fill-opacity=".5" fill-rule="nonzero" d="M40.646 79.67h31.666v1H40.646zM40.646 86.27h31.666v1H40.646zM40.646 92.398h31.666v1H40.646z" mask="url(#o)"/>
+                <path fill="url(#l)" fill-rule="nonzero" d="M40.646 79.67h18.905v1H40.646z" mask="url(#o)"/>
+                <path fill="url(#m)" fill-rule="nonzero" d="M40.646 86.27h9.453v1h-9.453z" mask="url(#o)"/>
+                <path fill="url(#l)" fill-rule="nonzero" d="M40.646 92.398h25.522v1H40.646z" mask="url(#o)"/>
+                <text fill="#747474" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.96" letter-spacing=".088" mask="url(#o)">
+                    <tspan x="24.082" y="81.1">Reques</tspan> <tspan x="28.234" y="85.1">ts</tspan>
+                </text>
+                <text fill="#747474" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.96" letter-spacing=".088" mask="url(#o)">
+                    <tspan x="24.984" y="87.7">Timeo</tspan> <tspan x="27.511" y="91.7">uts</tspan>
+                </text>
+                <text fill="#747474" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3.96" letter-spacing=".088" mask="url(#o)">
+                    <tspan x="24.005" y="94.3">Terminat</tspan> <tspan x="28.873" y="98.3">ed</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(357 317)">
+            <rect width="56.1" height="119.9" x="2.2" y="1.1" fill="#FFF" fill-rule="nonzero" rx="8.58"/>
+            <path fill="#DADADA" fill-rule="nonzero" d="M4.659 10.691l.466-.479v101.784l-.466-.479h51.876l-.465.479V10.212l.465.48H4.66zm51.876-.479v101.784H4.66V10.212h51.876zM24.46 5.53c0-.315.259-.57.563-.57h9.356a.572.572 0 0 1 0 1.142h-9.356a.573.573 0 0 1-.563-.572zM2.329 111.868c0 4.409 3.656 7.99 8.16 7.99h39.587c4.513 0 8.16-3.574 8.16-7.99V9.132c0-4.409-3.656-7.99-8.16-7.99H10.489c-4.513 0-8.16 3.574-8.16 7.99v102.736zM10.49 0h39.587c5.15 0 9.324 4.095 9.324 9.132v102.736c0 5.044-4.165 9.132-9.324 9.132H10.489c-5.15 0-9.324-4.095-9.324-9.132V9.132C1.165 4.088 5.329 0 10.489 0zM0 16.541c0-.31.27-.56.582-.56h.583v4.566H.582a.568.568 0 0 1-.582-.56v-3.446zm0 10.285c0-.316.27-.571.582-.571h.583v9.132H.582A.582.582 0 0 1 0 34.816v-7.99zm0 11.415c0-.315.27-.571.582-.571h.583v9.132H.582A.582.582 0 0 1 0 46.23v-7.99z"/>
+            <g transform="translate(4.4 11)">
+                <mask id="u" fill="#fff">
+                    <use xlink:href="#t"/>
+                </mask>
+                <use fill="#29292E" fill-rule="nonzero" xlink:href="#t"/>
+                <g fill-rule="nonzero" mask="url(#u)">
+                    <use fill="#000" filter="url(#v)" xlink:href="#w"/>
+                    <use fill="#29292E" xlink:href="#w"/>
+                </g>
+                <path fill="#455292" fill-rule="nonzero" d="M3.041 92.583h7.942v8.202H3.041z" mask="url(#u)"/>
+                <rect width="13.725" height="2.4" x="34.574" y="7.563" stroke="#565656" stroke-width=".66" mask="url(#u)" rx="1.2"/>
+                <text fill="#A2A2A2" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.97" letter-spacing=".066" mask="url(#u)">
+                    <tspan x="5.499" y="8.862">Overvie</tspan> <tspan x="5.499" y="11.862">w</tspan>
+                </text>
+                <text fill="#A2A2A2" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.97" letter-spacing=".066" mask="url(#u)">
+                    <tspan x="15.905" y="68.953">50</tspan> <tspan x="16.455" y="71.953">%</tspan>
+                </text>
+                <text fill="#9B9B9B" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="1.65" letter-spacing=".033" mask="url(#u)">
+                    <tspan x="15.999" y="71.001">CPU</tspan>
+                </text>
+                <text fill="#9B9B9B" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="1.65" letter-spacing=".033" mask="url(#u)">
+                    <tspan x="5.499" y="11.41">Dec </tspan> <tspan x="5.499" y="12.41">14th-18th</tspan>
+                </text>
+                <text fill="#4E4E4E" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="1.65" letter-spacing=".033" mask="url(#u)">
+                    <tspan x="35.372" y="8.858">Type</tspan> <tspan x="35.372" y="9.858">:</tspan>
+                </text>
+                <text fill="#ACACAC" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="1.65" letter-spacing=".033" mask="url(#u)">
+                    <tspan x="39.039" y="8.907">Active</tspan>
+                </text>
+                <path stroke="#979797" stroke-width=".66" d="M46.347 8.624l.355.35.355-.35" mask="url(#u)"/>
+                <path stroke="#5E5E5E" stroke-width=".66" d="M8.744 27.68h47.385" mask="url(#u)"/>
+                <path stroke="#646464" stroke-width=".66" d="M15.231 31.436v.645h5.598v-.645M43.155 30.045v.923h11.794v-.923" mask="url(#u)"/>
+                <path stroke="#3B3A3A" stroke-width=".66" d="M8.744 22.117h47.385M8.744 16.553h47.385" mask="url(#u)"/>
+                <path fill="#5D71D2" fill-rule="nonzero" d="M12.975 16.692h1v10.85h-1zM15.231 20.03h1v7.511h-1zM17.205 18.639h1v8.902h-1zM18.898 26.707h1v1h-1zM20.59 24.76h1v2.782h-1z" mask="url(#u)"/>
+                <path fill="#E67100" fill-rule="nonzero" d="M22.283 27.82h1v6.677h-1z" mask="url(#u)"/>
+                <path fill="#5D71D2" fill-rule="nonzero" d="M23.975 25.594h1v1.947h-1zM25.949 23.09h1v4.451h-1zM27.642 15.579h1v11.962h-1zM29.334 20.865h1v6.677h-1zM31.026 21.699h1v5.842h-1zM32.719 25.316h1v2.226h-1zM34.411 25.594h1v1.947h-1zM36.385 20.865h1v6.677h-1zM38.078 19.196h1v8.346h-1zM39.77 25.594h1v1.947h-1zM41.462 22.812h1v4.729h-1z" mask="url(#u)"/>
+                <path fill="#E67100" fill-rule="nonzero" d="M43.155 27.82h1v1.669h-1z" mask="url(#u)"/>
+                <path fill="#5D71D2" fill-rule="nonzero" d="M44.847 24.203h1v3.338h-1zM46.822 16.414h1v11.128h-1zM48.514 24.76h1v2.782h-1zM50.206 23.369h1v4.173h-1zM51.899 20.865h1v6.677h-1zM53.591 20.865h1v6.677h-1z" mask="url(#u)"/>
+                <path fill="#E67100" fill-rule="nonzero" d="M14.103 27.82h1v3.895h-1z" mask="url(#u)"/>
+                <ellipse cx="17.347" cy="69.41" stroke="#5E5E5E" stroke-width=".66" mask="url(#u)" rx="6.346" ry="6.259"/>
+                <ellipse cx="17.347" cy="69.41" stroke="#5E5E5E" stroke-width=".66" mask="url(#u)" rx="5.5" ry="5.425"/>
+                <g fill-rule="nonzero" mask="url(#u)">
+                    <use fill="#000" filter="url(#x)" xlink:href="#y"/>
+                    <use fill="#3E3E44" xlink:href="#y"/>
+                </g>
+                <path fill="url(#k)" fill-rule="nonzero" d="M17.347 63.985c-3.038 0-5.5 2.43-5.5 5.425 0 2.996 2.462 5.425 5.5 5.425v.835c-3.505 0-6.347-2.803-6.347-6.26s2.842-6.26 6.347-6.26v.835z" mask="url(#u)"/>
+                <text fill="#A2A2A2" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.97" letter-spacing=".066" mask="url(#u)">
+                    <tspan x="34.765" y="68.953">37%</tspan>
+                </text>
+                <text fill="#9B9B9B" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="1.65" letter-spacing=".033" mask="url(#u)">
+                    <tspan x="35.743" y="71.001">CPU</tspan>
+                </text>
+                <ellipse cx="37.091" cy="69.41" stroke="#5E5E5E" stroke-width=".66" mask="url(#u)" rx="6.346" ry="6.259"/>
+                <ellipse cx="37.091" cy="69.41" stroke="#5E5E5E" stroke-width=".66" mask="url(#u)" rx="5.5" ry="5.425"/>
+                <path fill="url(#k)" fill-rule="nonzero" d="M37.09 63.985c-3.037 0-5.5 2.43-5.5 5.425 0 2.996 2.463 5.425 5.5 5.425v.835c-3.504 0-6.346-2.803-6.346-6.26s2.842-6.26 6.347-6.26v.835z" mask="url(#u)"/>
+                <text fill="#FFF" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="1.98" letter-spacing=".044" mask="url(#u)">
+                    <tspan x="12.767" y="44.309">Total </tspan> <tspan x="12.563" y="47.309">Users</tspan>
+                </text>
+                <path fill="url(#l)" fill-rule="nonzero" d="M20.608 43.121h18.898v1H20.608z" mask="url(#u)"/>
+                <path fill="#9E9E9E" fill-opacity=".5" fill-rule="nonzero" d="M20.608 47.015h18.898v1H20.608zM20.608 50.91h18.898v1H20.608zM20.608 54.527h18.898v1H20.608z" mask="url(#u)"/>
+                <path fill="url(#l)" fill-rule="nonzero" d="M20.608 47.015H31.89v1H20.608z" mask="url(#u)"/>
+                <path fill="url(#m)" fill-rule="nonzero" d="M20.608 50.91h5.641v1h-5.641z" mask="url(#u)"/>
+                <path fill="url(#l)" fill-rule="nonzero" d="M20.608 54.527h15.231v1H20.608z" mask="url(#u)"/>
+                <text fill="#747474" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="1.98" letter-spacing=".044" mask="url(#u)">
+                    <tspan x="10.598" y="48.204">Requests</tspan>
+                </text>
+                <text fill="#747474" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="1.98" letter-spacing=".044" mask="url(#u)">
+                    <tspan x="10.592" y="52.099">Timeouts</tspan>
+                </text>
+                <text fill="#747474" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="1.98" letter-spacing=".044" mask="url(#u)">
+                    <tspan x="10.894" y="55.994">Terminate</tspan> <tspan x="14.193" y="58.994">d</tspan>
+                </text>
+                <text fill="#FFF" font-family="FontAwesome" font-size="3.63" mask="url(#u)">
+                    <tspan x="5.474" y="97.841"></tspan>
+                </text>
+                <text fill="#D5D5D5" font-family="FontAwesome" font-size="2.31" mask="url(#u)">
+                    <tspan x="24.938" y="98.092"></tspan>
+                </text>
+                <text fill="#747474" font-family="FontAwesome" font-size="2.31" mask="url(#u)">
+                    <tspan x="34.061" y="98.092"></tspan>
+                </text>
+                <text fill="#747474" font-family="LastResort, .LastResort" font-size="2.31" mask="url(#u)">
+                    <tspan x="42.576" y="98.092"></tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

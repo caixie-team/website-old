@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="38px" viewBox="0 0 45 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>vue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="vue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.500000, 0.000000)" fill-rule="nonzero">
+            <polygon id="Path" points="33.379694 1 41.7246175 1 20.8623088 36.9874826 0 1 15.9596662 1 20.8623088 9.3449235 25.6606398 1"></polygon>
+            <polygon id="Path" stroke="#B7C3CE" points="0 1 20.8623088 36.9874826 41.7246175 1 33.379694 1 20.8623088 22.5924896 8.24061196 1"></polygon>
+            <polygon id="Path" fill="#B7C3CE" points="8.24061196 0.5 20.8623088 22.1968011 33.379694 0.5 25.6606398 0.5 20.8623088 8.8449235 15.9596662 0.5"></polygon>
+        </g>
+    </g>
+</svg>

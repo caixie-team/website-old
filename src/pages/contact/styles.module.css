@@ -17,8 +17,8 @@
 
 .container h1 {
     position: relative;
-    font-size: 5.5rem;
-    line-height: 1.13;
+    font-size: 3.5rem;
+    line-height: 1.5;
     text-align: left;
     font-weight: 500;
     grid-area: "left"

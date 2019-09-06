@@ -1,6 +1,6 @@
 ---
 templateKey: 'project'
-sort: 7
+sort: 1
 name: disney-english
 title: "迪士尼英语 APP"
 subtitle: "UI 设计"
@@ -17,13 +17,6 @@ sections:
     - type: text
       header: 介绍
       body: 迪士尼英语是华特迪士尼公司通过迪士尼全球出版部门在中国开展的一项新业务，为儿童英语学习设定了全新标准。我结合迪士尼英语品牌的特点与 VI 标准，对其 APP 进行了全新的设计创造.
-    - type: stats
-      stat1LabelHtml: "<p><strong>Reduction in app engineering time </strong>for all mobile apps</p>"
-      stat1Value: 30%
-      stat2LabelHtml: "<p><strong>Between production deployments</strong>, down from 6 months</p>" 
-      stat2Value: 2 wks
-      stat3LabelHtml: "<p><strong>Multi-platform components </strong>(work across both web and native mobile) built</p>"
-      stat3Value: 5+
     - type: text
       header: 执行方案
       body: "<p>我们要用最简洁的交互来管理复杂的内容，也要要用最明快的界面体现出最便捷的的交互，轻量级的小程序移动端是最轻便的播客应用。</p>"
@@ -49,6 +42,6 @@ sections:
     - type: imagegrid
       columns: 1
       images:
-        - "/img/project-disneyEnglish-iphone-view.jpg"
+        - "/img/project-disneyEnglish-example-1px.jpg"
 ---
 

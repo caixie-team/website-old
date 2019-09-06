@@ -20,6 +20,6 @@
 @custom-properties --c--text-secondary #9da7b3;
 @custom-properties --scroll-bar 15px;
 @custom-properties --small-viewport 900px;
-/*.customSelectors {*/
-/*}*/
+.customSelectors {
+}
 @custom-media --photo-breakpoint (min-width: 30em);

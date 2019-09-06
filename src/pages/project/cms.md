@@ -1,6 +1,6 @@
 ---
 templateKey: 'project'
-sort: 3
+sort: 5
 name: cms
 title: "采撷内容框架系统"
 subtitle: "这个一套基于 Nodejs 架构，自主研发的内容框架系统"
@@ -18,12 +18,12 @@ sections:
       header: 介绍
       body: 这个一套基于 Nodejs、Java 架构，自主研发的内容框架系统，可应于：电子商务平台、网络商城、资讯网站、图片站、下载站等一些基于内容管理的网络应用，全端支持 PC、手机端、微信公众平台、小程序，有完整的插件系统、API系统，模块化开发机制便于灵活扩展和二次开发
     - type: stats
-      stat1LabelHtml: "<p><strong>Reduction in app engineering time </strong>for all mobile apps</p>"
-      stat1Value: 30%
-      stat2LabelHtml: "<p><strong>Between production deployments</strong>, down from 6 months</p>" 
-      stat2Value: 2 wks
-      stat3LabelHtml: "<p><strong>Multi-platform components </strong>(work across both web and native mobile) built</p>"
-      stat3Value: 5+
+      stat1LabelHtml: "研发周期"
+      stat1Value: 1年
+      stat2LabelHtml: "服务周期"
+      stat2Value: 永久
+      stat3LabelHtml: "系统服务用户"
+      stat3Value: 10+
     - type: image
       alt: cover
       image: /img/project-cms_cover.jpg

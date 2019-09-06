@@ -12,7 +12,7 @@ import normalizeWheel from "normalize-wheel"
 
 import Layout from "components/Layout"
 import Link from "components/Link"
-// import SEO from 'components/SEO';
+import SEO from 'components/SEO';
 import Transition from "components/Transition"
 // import Brush from 'components/Brush';
 import Arrow from "components/Arrow"
@@ -22,6 +22,9 @@ import styles from "../styles/index.module.css"
 
 // import { ReactComponent as Cursor } from "../images/dragcursor.svg"
 import { ReactComponent as Cursor } from "../img/cursor.svg"
+// import Heading from "../components/Hero/Heading";
+// import Hero from "../components/Hero/Hero";
+import HeroTop from "../components/Hero/HeroTop";
 
 // import starUrl, { ReactComponent as Star } from '../images/cursor.svg'
 class Index extends Component {
@@ -186,6 +189,7 @@ class Index extends Component {
             showHover: true,
             projectActive: null,
             backgroundColor: "#23282e",
+            // backgroundColor: "#000",
         })
     }
 
@@ -313,7 +317,7 @@ class Index extends Component {
 
         return (
             <Layout hideFooter outerClassName={styles.outer}>
-                {/*<SEO title="Digital & Web Product Studio in Brooklyn, NYC" />*/}
+                <SEO title="我们的工作" />
 
                 <div
                     ref={this.cursor}
@@ -419,7 +423,6 @@ class Index extends Component {
                             }}
                         >
                             <div className={styles.wrap}>
-                                <h1>
                                     {/*
                   <strong
                     className="styles-module--brush--3buen styles-module--brush3--rPKJB styles-module--animate--3lXLb">
@@ -437,8 +440,11 @@ class Index extends Component {
                     <span>product</span></strong>*/}
                                     {/*Planetary is a digital product studio*/}
                                     {/*born in Brooklyn, and based globally.*/}
-                                    采撷是一家技术服务公司，总部位于北京。
-                                </h1>
+                                    {/*<Heading />*/}
+                                {/*<h1>*/}
+                                {/*采撷是一家技术服务公司，总部位于北京。*/}
+                                {/*</h1>*/}
+                                <HeroTop/>
                                 <div className={styles.bottom}>
                                     <Link
                                         to="/about"
@@ -446,7 +452,6 @@ class Index extends Component {
                                         onMouseLeave={this.onElementLeave}
                                     >
                                         关于我们
-                                        {/*About Us*/}
                                         <Arrow size="1.5rem" color="red" className={styles.arrow}/>
                                     </Link>
                                     <h4>滑动浏览更多</h4>
@@ -552,7 +557,7 @@ export default withWindowSizeListener(Index)
 export const pageQuery = graphql`
     query WorkQuery {
         projects: allMarkdownRemark(
-            sort: { order: ASC, fields: [frontmatter___sort] },
+            sort: { order: DESC, fields: [frontmatter___sort] },
             filter: { frontmatter: { templateKey: { eq: "project" } }}
         ){
             edges {

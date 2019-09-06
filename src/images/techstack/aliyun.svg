@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>aliyun</title>
+    <desc>Created with Sketch.</desc>
+    <g id="aliyun" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-aliyun" transform="translate(14.000000, 18.000000)"></g>
+        <g id="Group" transform="translate(0.000000, 8.000000)" fill="#B7C3CE" fill-rule="nonzero">
+            <path d="M16,0 L6.56303972,0 C2.93837297,0 0,2.93242752 0,6.54976019 L0,16.4502398 C0,20.0675725 2.93837297,23 6.56303972,23 L16,23 L15.074266,19.5251799 L6.43868739,17.8015588 C5.78497656,17.6685316 5.31988158,17.0883392 5.33333333,16.4226619 L5.33333333,6.89448441 C5.31583677,6.24135405 5.76004476,5.66562782 6.39723661,5.51558753 L15.0604491,3.59892086 L16,0 Z" id="Path"></path>
+            <path d="M22,23 L31.4369603,23 C35.061627,23 38,20.0658134 38,16.4463107 L38,6.55368926 C38,2.93418663 35.061627,0 31.4369603,0 L22,0 L22.925734,3.47690462 L31.5613126,5.18776245 C32.2150234,5.32086943 32.6801184,5.90140986 32.6666667,6.5674865 L32.6666667,16.2255549 C32.6841632,16.8790771 32.2399552,17.4551486 31.6027634,17.6052789 L22.925734,19.3161368 L22,23 Z" id="Path"></path>
+            <rect id="Rectangle" x="15" y="11" width="7" height="1"></rect>
+        </g>
+    </g>
+</svg>

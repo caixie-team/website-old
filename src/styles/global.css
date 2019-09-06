@@ -117,7 +117,8 @@
     --small-viewport: 900px;
     --xsmall-viewport: 568px;
     --max-width: 1440px;
-    --c--page-background: #2a2f36;
+    /*--c--page-background: #2a2f36;*/
+    --c--page-background: #000;
     --c--white: #fff;
     --c--gray-border: #485059;
     --c--planetary-red: #dc4133;
@@ -134,8 +135,11 @@ body, html {
     color: var(--c--text);
     counter-reset: section;
     -webkit-font-smoothing: antialiased;
-    background: #2a2f36;
-    background: var(--c--page-background)
+    -moz-osx-font-smoothing: grayscale;
+    /*background: #2a2f36;*/
+    background: var(--c--page-background);
+    /*-webkit-font-smoothing: antialiased;*/
+    /*background: #000;*/
 }
 
 body.no-scroll, html.no-scroll {
@@ -185,6 +189,6 @@ a {
 }
 
 .tl-wrapper {
-    background: #2a2f36;
+    /*background: #2a2f36;*/
     background: var(--c--page-background)
 }

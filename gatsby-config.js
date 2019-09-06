@@ -1,10 +1,15 @@
 var proxy = require('http-proxy-middleware')
-
+// title
+// description
+// author
+// siteUrl
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: '北京采撷科技有限公司',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      '北京采撷科技成立于2015年，是一家技术服务公司，目标是为传统企业转型、企业公司、创新产品技术研发服务。包括互联网教育行业解决方案、最小可行性产品研发、UE/UX 设计、营销产品研发，小程序、APP等',
+    author: '采撷科技',
+    siteUrl: 'https://caixie.top'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

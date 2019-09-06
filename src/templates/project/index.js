@@ -8,7 +8,7 @@ import chroma from "chroma-js"
 import VisibilitySensor from "react-visibility-sensor"
 
 import Link from "components/Link"
-// import SEO from 'components/SEO';
+import SEO from 'components/SEO';
 import {supportsWebMAlpha} from "lib/feature-check"
 
 // This comes first so that each module's css below loads after this css
@@ -58,7 +58,7 @@ const ProjectTemplate = ({
         </div>
 
         {/* SVG for list bullets */}
-{/*        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style={{display: 'none'}}>
+        {/*        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style={{display: 'none'}}>
             <symbol viewBox="0 0 11 16" id="bullet">
                 <g transform="translate(1, -9)" fillRule="nonzero">
                     <path
@@ -228,11 +228,10 @@ class Project extends Component {
                 outerClassName={styles.outer}
                 transitionStatus={transitionStatus}
             >
-                {/*        <SEO
-          title={project.frontmatter.title}
-          description={project.frontmatter.summary}
-          ogImage={project.frontmatter.hero.childImageSharp.fluid.src}
-        />*/}
+                <SEO
+                    title={project.frontmatter.title}
+                    description={project.frontmatter.summary}
+                />
                 <VisibilitySensor partialVisibility resizeCheck onChange={this.onHeroVisibilityChange}>
                     <div
                         className={styles.heroFill}

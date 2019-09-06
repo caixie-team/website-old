@@ -1,6 +1,6 @@
 ---
 templateKey: 'project'
-sort: 6
+sort: 2
 title: "人脸识别系统"
 name: facial
 subtitle: "基于 WEB 平台的人脸识别系统"

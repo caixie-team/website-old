@@ -119,6 +119,7 @@ class Nav extends Component {
         duration: 200,
         easing: "easeInOutQuad",
         targets: this.wrap,
+        // backgroundColor: "linear-gradient(to right,#601947,#315567)",
         backgroundColor: "rgba(50, 55, 61, 1)",
       })
 
@@ -165,6 +166,8 @@ class Nav extends Component {
         easing: "easeInOutQuad",
         targets: this.wrap,
         backgroundColor: "rgba(50, 55, 61, 0)",
+        // backgroundColor: "rgba(250, 255, 255, 1)",
+        // backgroundColor: "linear-gradient(to right,#601947,#315567)",
       }, (50 + ((50 * this.navItemRefs.length) / 2)))
     }
   }
@@ -177,10 +180,10 @@ class Nav extends Component {
         to: "/",
         label: "工作",
       },
-      // {
-      //   to: "/approach",
-      //   label: "方法策略",
-      // },
+      {
+        to: "/approach",
+        label: "策略",
+      },
       {
         to: "/about",
         label: "关于",

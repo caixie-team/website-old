@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="755px" height="1131px" viewBox="0 0 755 1131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Design-bg-desktop@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="12.7326308" y="0" width="16.2694727" height="5.19999969" rx="2.59999985"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16.2694727" height="5.19999969" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M2.97142839,3.76804442 C2.97142839,3.32808554 3.33825239,2.97142839 3.76804442,2.97142839 L15.8890973,2.97142839 C16.3290561,2.97142839 16.6857133,3.33825239 16.6857133,3.76804442 L16.6857133,15.8890973 C16.6857133,16.3290561 16.3188893,16.6857133 15.8890973,16.6857133 L3.76804442,16.6857133 C3.32808554,16.6857133 2.97142839,16.3188893 2.97142839,15.8890973 L2.97142839,3.76804442 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="13.7142849" height="13.7142849" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0" width="364" height="236"></rect>
+        <rect id="path-7" x="0" y="0" width="30.2364217" height="236"></rect>
+        <filter x="-39.7%" y="-5.1%" width="179.4%" height="110.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="196.536741" y="107.485149" width="148.85623" height="82.950495" rx="3"></rect>
+        <filter x="-14.8%" y="-12.1%" width="122.8%" height="141.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="-5" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-11">
+            <stop stop-color="#1BCEDF" offset="0%"></stop>
+            <stop stop-color="#5B247A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="115.495648%" y1="220.625581%" x2="60.5076051%" y2="657.890084%" id="linearGradient-12">
+            <stop stop-color="#17EAD9" offset="0%"></stop>
+            <stop stop-color="#6078EA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="370.091975%" y1="0%" x2="75.0857002%" y2="0%" id="linearGradient-13">
+            <stop stop-color="#17EAD9" offset="0%"></stop>
+            <stop stop-color="#6078EA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-14" x="0" y="0" width="178.907254" height="235.259608"></rect>
+        <rect id="path-16" x="0" y="0" width="24.1139896" height="236"></rect>
+        <filter x="-49.8%" y="-5.1%" width="199.5%" height="110.2%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-18" x="36.1709845" y="131.419608" width="118.715026" height="65.7098039" rx="3"></rect>
+        <filter x="-18.5%" y="-15.2%" width="128.6%" height="151.7%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="-5" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-20" x="0" y="0" width="83.453627" height="168"></rect>
+        <rect id="path-22" x="-1" y="157" width="84.0569948" height="11"></rect>
+        <filter x="-7.1%" y="-54.5%" width="114.3%" height="209.1%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-24" x="12.0854922" y="65.7098039" width="59.357513" height="32.854902" rx="1.5"></rect>
+        <filter x="-21.1%" y="-16.7%" width="132.0%" height="157.8%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="-3" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design-bg-desktop" transform="translate(1.000000, 0.000000)">
+            <g id="Group-24" transform="translate(212.000000, 615.000000)">
+                <g id="Group-9" transform="translate(97.000000, 0.000000)">
+                    <rect id="Rectangle-Copy-21" fill-opacity="0.7" fill="#152034" fill-rule="nonzero" x="0.599998713" y="0.399999738" width="60.899999" height="76.9999987"></rect>
+                    <text id="Crowdlinker-Navy-#15" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="4.19999993" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="11.0999985" y="54.7999989">Crowdlinker Navy</tspan>
+                        <tspan x="11.0999985" y="59.7999989">#152034</tspan>
+                    </text>
+                </g>
+                <g id="Group-8">
+                    <rect id="Rectangle-Copy-21" fill-opacity="0.7" fill="#000000" fill-rule="nonzero" x="0.100002348" y="0" width="60.899999" height="76.9999987"></rect>
+                    <text id="Crowdlinker-Black-#0" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="4.19999993" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="11.1000023" y="54">Crowdlinker Black</tspan>
+                        <tspan x="11.1000023" y="59">#000000</tspan>
+                    </text>
+                </g>
+                <g id="Group-10" transform="translate(195.000000, 0.000000)">
+                    <rect id="Rectangle-Copy-22" fill-opacity="0.7" fill="#2A3E64" fill-rule="nonzero" x="0.499997437" y="0.399999738" width="60.899999" height="76.9999987"></rect>
+                    <text id="Crowdlinker-Whjfdhs" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="4.19999993" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="10.2999973" y="54.7999989">Crowdlinker Whjfdhs</tspan>
+                        <tspan x="10.2999973" y="59.7999989">#2A3E64</tspan>
+                    </text>
+                </g>
+                <g id="Group-6" transform="translate(37.000000, 110.000000)">
+                    <rect id="Rectangle-Copy-23" fill-opacity="0.7" fill="#FC544C" fill-rule="nonzero" x="0" y="0.399998188" width="60.899999" height="76.9999987"></rect>
+                    <text id="Crowdlinker-Coral-#F" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="4.19999993" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="10.4999998" y="54.0999973">Crowdlinker Coral</tspan>
+                        <tspan x="10.4999998" y="59.0999973">#FC544C</tspan>
+                    </text>
+                </g>
+                <g id="Group-13" transform="translate(134.000000, 110.000000)">
+                    <rect id="Rectangle-Copy-24" fill-opacity="0.7" fill="#ED6663" fill-rule="nonzero" x="0.899998724" y="0.399998188" width="60.899999" height="76.9999987"></rect>
+                    <text id="Crowdlinker-Accent-#" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="4.19999993" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="12.0999985" y="54.7999973">Crowdlinker Accent</tspan>
+                        <tspan x="12.0999985" y="59.7999973">#ED6663</tspan>
+                    </text>
+                </g>
+                <g id="Group-11" transform="translate(232.000000, 110.000000)">
+                    <rect id="Rectangle-Copy-24" fill-opacity="0.7" fill="#FDA4A0" fill-rule="nonzero" x="0.799997449" y="0.399998188" width="60.899999" height="76.9999987"></rect>
+                    <text id="Crowdlinker-Coral-#F" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="4.19999993" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="10.5999973" y="54.7999973">Crowdlinker Coral</tspan>
+                        <tspan x="10.5999973" y="59.7999973">#FDA4A0</tspan>
+                    </text>
+                </g>
+                <g id="Group-14" transform="translate(330.000000, 110.000000)">
+                    <rect id="Rectangle-Copy-24" stroke-opacity="0.5" stroke="#9E9E9E" stroke-width="0.5" fill-opacity="0.8" fill="#FFFFFF" fill-rule="nonzero" x="0.949996173" y="0.649998188" width="60.399999" height="76.4999987"></rect>
+                    <text id="Crowdlinker-White-#F" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="4.19999993" font-weight="normal" fill="#9B9B9B">
+                        <tspan x="13.299996" y="54.7999973">Crowdlinker White</tspan>
+                        <tspan x="13.299996" y="59.7999973">#FFFFFF</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="user-flow" opacity="0.504575">
+                <g id="tiles/main-page" transform="translate(0.000000, 62.500000)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="tiles/external" transform="translate(14.411303, 143.429487)" fill="#EEF2F6" stroke="#B8C5D0">
+                    <g id="external">
+                        <rect id="Rectangle-8" stroke-width="0.5" x="0.25" y="0.25" width="27.0692291" height="27.0692291" rx="0.799999952"></rect>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(255.400314, 0.000000)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="arrows/arrow-3.1" transform="translate(359.882261, 74.519231) scale(-1, 1) rotate(-270.000000) translate(-359.882261, -74.519231) translate(338.665620, 8.814103)">
+                    <g id="arrow-3.1">
+                        <path d="M0.479999971,0.479999971 L19.4447323,0.479999971 C20.3263329,0.479999971 21.0410114,1.19729771 21.0410114,2.08067783 L21.0410114,123.679315 C21.0410114,124.563345 21.7544943,125.279993 22.6476529,125.279993 L41.0879976,125.279993" id="Path-3" stroke="#89969F" stroke-width="0.5"></path>
+                        <circle id="Oval--Copy" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" cx="0.959999943" cy="0.479999971" r="1"></circle>
+                        <polygon id="Triangle-2-Copy" fill="#89969F" points="40.8479976 125.759993 40.8479976 124.799993 41.3279975 125.279993"></polygon>
+                    </g>
+                </g>
+                <g id="arrows/arrow-1" transform="translate(244.591837, 27.243590) scale(-1, 1) translate(-244.591837, -27.243590) translate(233.783359, 26.442308)">
+                    <g id="arrow-1">
+                        <path d="M0.15999999,0.899999976 L22.0162454,0.899999976" id="Line" stroke="#89969F" stroke-width="0.5" stroke-linecap="square"></path>
+                        <circle id="Oval" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" cx="0.399999976" cy="0.899999976" r="1"></circle>
+                        <polygon id="Triangle" fill="#89969F" points="21.7515777 1.29999995 21.7515777 0.5 22.2315776 0.899999976"></polygon>
+                    </g>
+                </g>
+                <g id="tiles/modal" transform="translate(204.960754, 14.423077)">
+                    <g id="modal">
+                        <rect id="Rectangle-8" stroke="#B8C5D0" stroke-width="0.5" fill="#EEF2F6" x="0.25" y="0.25" width="27.0692291" height="27.0692291" rx="0.799999952"></rect>
+                        <path d="M24.8930096,2.61676205 L25.1278567,2.38191502 C25.3237206,2.18605107 25.6417798,2.18552497 25.8376283,2.38137343 L25.5486827,2.09242787 C25.7515654,2.29531054 25.7442887,2.6060519 25.5481411,2.80219947 L25.3132941,3.03704651 L25.5481411,3.27189354 C25.7442887,3.46804111 25.7515654,3.77878247 25.5486827,3.98166515 L25.8376283,3.69271959 C25.6417798,3.88856805 25.3237206,3.88804194 25.1278567,3.69217799 L24.8930096,3.45733096 L24.6581626,3.69217799 C24.4622986,3.88804194 24.1442395,3.88856805 23.948391,3.69271959 L24.2373366,3.98166515 C24.0344539,3.77878247 24.0417306,3.46804111 24.2378781,3.27189354 L24.4727252,3.03704651 L24.2378781,2.80219947 C24.0417306,2.6060519 24.0344539,2.29531054 24.2373366,2.09242787 L23.948391,2.38137343 C24.1442395,2.18552497 24.4622986,2.18605107 24.6581626,2.38191502 L24.8930096,2.61676205 Z" id="Combined-Shape-Copy" fill="#89969F"></path>
+                    </g>
+                </g>
+                <g id="arrows/arrow-1" transform="translate(297.032967, 26.442308)">
+                    <g id="arrow-1">
+                        <path d="M0.15999999,0.899999976 L42.1757338,0.899999976" id="Line" stroke="#89969F" stroke-width="0.5" stroke-linecap="square"></path>
+                        <circle id="Oval" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" cx="0.399999976" cy="0.899999976" r="1"></circle>
+                        <polygon id="Triangle" fill="#89969F" points="41.9621028 1.29999995 41.9621028 0.5 42.4421027 0.899999976"></polygon>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(339.466248, 0.000000)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="arrows/arrow-1" transform="translate(275.816327, 76.121795) rotate(-270.000000) translate(-275.816327, -76.121795) translate(254.599686, 75.320513)">
+                    <g id="arrow-1">
+                        <path d="M0.15999999,0.899999976 L42.1757338,0.899999976" id="Line" stroke="#89969F" stroke-width="0.5" stroke-linecap="square"></path>
+                        <circle id="Oval" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" cx="0.399999976" cy="0.899999976" r="1"></circle>
+                        <polygon id="Triangle" fill="#89969F" points="41.9621028 1.29999995 41.9621028 0.5 42.4421027 0.899999976"></polygon>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(255.400314, 96.153846)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(339.466248, 96.153846)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(677.000000, 595.000000)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(614.000000, 595.000000)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(551.000000, 595.000000)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="numbers/solid/blue" transform="translate(296.631083, 93.147436)">
+                    <g id="blue">
+                        <circle id="Oval-2" fill="#15BDF4" cx="2.7599999" cy="2.7599999" r="2.7599999"></circle>
+                        <text id="3" font-family="Roboto-Bold, Roboto" font-size="1.7599999" font-weight="bold" letter-spacing="0.0293333418" fill="#FFFFFF">
+                            <tspan x="2.24045038" y="3.69999993">1</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="tiles/inner-page" transform="translate(278.000000, 197.000000)">
+                    <g id="inner-page">
+                        <path d="M0,0.795883723 C0,0.35632928 0.367418668,0 0.802779424,0 L18.4505528,0 C18.8939156,0 19.2533322,0.362643564 19.2533322,0.795883723 L19.2533322,24.8574481 C19.2533322,25.2970025 18.8859135,25.6533318 18.4505528,25.6533318 L0.802779424,25.6533318 C0.359416591,25.6533318 0,25.2906882 0,24.8574481 L0,0.795883723 Z" id="Rectangle-7" fill="#B8C5D0"></path>
+                        <path d="M0,1.11999993 L19.2533322,1.11999993 L19.2533322,24.8510121 C19.2533322,25.294121 18.8859135,25.6533318 18.4505528,25.6533318 L0.802779424,25.6533318 C0.359416591,25.6533318 0,25.2874865 0,24.8510121 L0,1.11999993 Z" id="Rectangle-7-Copy" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="0.674380125" cy="0.596026455" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.22975199" cy="0.596026455" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.78512386" cy="0.596026455" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="tiles/inner-page" transform="translate(278.000000, 315.000000)">
+                    <g id="inner-page">
+                        <path d="M0,0.795883723 C0,0.35632928 0.367418668,0 0.802779424,0 L18.4505528,0 C18.8939156,0 19.2533322,0.362643564 19.2533322,0.795883723 L19.2533322,24.8574481 C19.2533322,25.2970025 18.8859135,25.6533318 18.4505528,25.6533318 L0.802779424,25.6533318 C0.359416591,25.6533318 0,25.2906882 0,24.8574481 L0,0.795883723 Z" id="Rectangle-7" fill="#B8C5D0"></path>
+                        <path d="M0,1.11999993 L19.2533322,1.11999993 L19.2533322,24.8510121 C19.2533322,25.294121 18.8859135,25.6533318 18.4505528,25.6533318 L0.802779424,25.6533318 C0.359416591,25.6533318 0,25.2874865 0,24.8510121 L0,1.11999993 Z" id="Rectangle-7-Copy" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="0.674380125" cy="0.596026455" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.22975199" cy="0.596026455" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.78512386" cy="0.596026455" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="tiles/inner-page" transform="translate(278.000000, 251.000000)">
+                    <g id="inner-page">
+                        <path d="M0,0.795883723 C0,0.35632928 0.367418668,0 0.802779424,0 L18.4505528,0 C18.8939156,0 19.2533322,0.362643564 19.2533322,0.795883723 L19.2533322,24.8574481 C19.2533322,25.2970025 18.8859135,25.6533318 18.4505528,25.6533318 L0.802779424,25.6533318 C0.359416591,25.6533318 0,25.2906882 0,24.8574481 L0,0.795883723 Z" id="Rectangle-7" fill="#B8C5D0"></path>
+                        <path d="M0,1.11999993 L19.2533322,1.11999993 L19.2533322,24.8510121 C19.2533322,25.294121 18.8859135,25.6533318 18.4505528,25.6533318 L0.802779424,25.6533318 C0.359416591,25.6533318 0,25.2874865 0,24.8510121 L0,1.11999993 Z" id="Rectangle-7-Copy" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="0.674380125" cy="0.596026455" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.22975199" cy="0.596026455" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.78512386" cy="0.596026455" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="arrows/arrow-7.1" transform="translate(254.599686, 149.038462)">
+                    <g id="arrow-7.1">
+                        <path d="M0.479999971,0 L0.479999971,60.420687 C0.479999971,61.301752 1.20189268,62.0159963 2.07736492,62.0159963 L22.941442,62.0159963" id="Path-6" stroke="#89969F" stroke-width="0.5"></path>
+                        <circle id="Oval--Copy-3" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" cx="0.479999971" cy="0.479999971" r="1"></circle>
+                        <polygon id="Triangle-2-Copy-4" fill="#89969F" points="22.7039986 62.4959963 22.7039986 61.5359963 23.1839986 62.0159963"></polygon>
+                    </g>
+                </g>
+                <g id="arrows/arrow-7" transform="translate(255.000000, 262.000000)">
+                    <g id="arrow-7">
+                        <path d="M3.14608594e-18,0 L1.1947063e-15,64.4480661 C1.21104322e-15,65.331683 0.718648812,66.0479961 1.60355189,66.0479961 L20.8774421,66.0479961" id="Path-6" stroke="#89969F" stroke-width="0.5"></path>
+                        <polygon id="Triangle-2-Copy-4" fill="#89969F" points="20.6399988 66.527996 20.6399988 65.5679961 21.1199987 66.0479961"></polygon>
+                    </g>
+                </g>
+                <g id="arrows/arrow-7" transform="translate(255.000000, 210.000000)">
+                    <g id="arrow-7">
+                        <path d="M3.14608594e-18,0 L1.18807189e-15,52.3519583 C1.20807289e-15,53.2356352 0.718648812,53.9519968 1.60355189,53.9519968 L20.8774421,53.9519968" id="Path-6" stroke="#89969F" stroke-width="0.5"></path>
+                        <polygon id="Triangle-2-Copy-4" fill="#89969F" points="20.6399988 54.4319968 20.6399988 53.4719968 21.1199987 53.9519968"></polygon>
+                    </g>
+                </g>
+                <g id="arrows/tag-hor---arrow-1.4-dotted" transform="translate(212.967033, 120.993590)" stroke="#89969F">
+                    <g id="tag-hor---arrow-1.4-dotted">
+                        <path d="M0.15999999,2.59999985 L42.1757338,2.59999985" id="Line" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="0.4799999713897707"></path>
+                        <circle id="Oval-R" stroke-width="0.5" fill="#FFFFFF" cx="42.0421028" cy="2.59999985" r="1"></circle>
+                        <circle id="Oval-L" stroke-width="0.5" fill="#FFFFFF" cx="0.399999976" cy="2.59999985" r="1"></circle>
+                        <use id="pill" mask="url(#mask-2)" fill="#FFFFFF" stroke-dasharray="0.4799999713897707" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(170.533752, 96.153846)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="numbers/solid/orange" transform="translate(210.963893, 92.147436)">
+                    <g id="orange">
+                        <circle id="Oval-2" fill="#FB7C38" cx="2.7599999" cy="2.7599999" r="2.7599999"></circle>
+                        <text id="2" font-family="Roboto-Bold, Roboto" font-size="1.7599999" font-weight="bold" letter-spacing="0.0293333418" fill="#FFFFFF">
+                            <tspan x="2.24045038" y="3.69999993">2</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(170.533752, 170.673077)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="arrows/tag-ver---arrow-1" transform="translate(182.543171, 149.038462)">
+                    <g id="tag-ver---arrow-1" transform="translate(8.639999, 10.735999) rotate(-270.000000) translate(-8.639999, -10.735999) translate(-2.160000, 2.464000)">
+                        <path d="M0.15999999,8.27199951 L21.2201455,8.27199951" id="Line" stroke="#89969F" stroke-width="0.5" stroke-linecap="square" transform="translate(10.690073, 8.272000) scale(1, -1) translate(-10.690073, -8.272000) "></path>
+                        <circle id="Oval" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" cx="0.399999976" cy="8.27199951" r="1"></circle>
+                        <polygon id="Triangle" fill="#89969F" points="21.1199987 8.67199948 21.1199987 7.87199953 21.5999987 8.27199951"></polygon>
+                        <path d="M2.95399984,8.27199951 C2.95399984,9.43209154 3.88525715,10.3619994 5.04116286,10.3619994 L16.5588359,10.3619994 C17.7092157,10.3619994 18.6459989,9.42506013 18.6459989,8.27199951 C18.6459989,7.11190748 17.7147416,6.18199965 16.5588359,6.18199965 L5.04116286,6.18199965 C3.89078303,6.18199965 2.95399984,7.11893889 2.95399984,8.27199951 Z" id="pill" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" transform="translate(10.799999, 8.272000) rotate(-90.000000) translate(-10.799999, -8.272000) "></path>
+                    </g>
+                </g>
+                <g id="arrows/arrow-4.1" transform="translate(149.317111, 122.596154) scale(-1, 1) translate(-149.317111, -122.596154) translate(128.100471, 87.339744)">
+                    <g id="arrow-4.1">
+                        <path d="M42.6357869,0.479999971 L11.367922,0.479999971 C10.4798909,0.479999971 9.75999942,1.20183126 9.75999942,2.08741068 L9.75999942,69.4805851 C9.75999942,70.3683335 10.4772313,71.0879958 11.367922,71.0879958 L42.6357869,71.0879958" id="Path-4" stroke="#89969F" stroke-width="0.5"></path>
+                        <path d="M9.84297396,35.9879979 L0.159333335,35.9879979" id="Path-5" stroke="#89969F" stroke-width="0.5"></path>
+                        <circle id="Oval--Copy-3" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" cx="0.639999962" cy="35.7839979" r="1"></circle>
+                        <polygon id="Triangle-2-Copy-2" fill="#89969F" points="42.315787 0.959999943 42.315787 0 42.7957869 0.479999971"></polygon>
+                        <polygon id="Triangle-2-Copy-4" fill="#89969F" points="42.315787 71.5679957 42.315787 70.6079958 42.7957869 71.0879958"></polygon>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(84.866562, 62.500000)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(84.866562, 130.608974)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="arrows/arrow-1" transform="translate(63.649922, 88.942308) scale(-1, 1) translate(-63.649922, -88.942308) translate(42.433281, 88.141026)">
+                    <g id="arrow-1">
+                        <path d="M0.15999999,0.899999976 L42.1757338,0.899999976" id="Line" stroke="#89969F" stroke-width="0.5" stroke-linecap="square"></path>
+                        <circle id="Oval" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" cx="0.399999976" cy="0.899999976" r="1"></circle>
+                        <polygon id="Triangle" fill="#89969F" points="41.9621028 1.29999995 41.9621028 0.5 42.4421027 0.899999976"></polygon>
+                    </g>
+                </g>
+                <g id="arrows/arrow-1" transform="translate(63.649922, 157.051282) scale(-1, 1) translate(-63.649922, -157.051282) translate(42.433281, 156.250000)">
+                    <g id="arrow-1">
+                        <path d="M0.15999999,0.899999976 L42.1757338,0.899999976" id="Line" stroke="#89969F" stroke-width="0.5" stroke-linecap="square"></path>
+                        <circle id="Oval" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" cx="0.399999976" cy="0.899999976" r="1"></circle>
+                        <polygon id="Triangle" fill="#89969F" points="41.9621028 1.29999995 41.9621028 0.5 42.4421027 0.899999976"></polygon>
+                    </g>
+                </g>
+                <g id="arrows/arrow-1.4" transform="translate(297.032967, 121.794872)" stroke="#89969F">
+                    <g id="arrow-1.4">
+                        <path d="M0.15999999,0.899999976 L42.1757338,0.899999976" id="Line" stroke-width="0.5" stroke-linecap="square"></path>
+                        <circle id="Oval-R" stroke-width="0.5" fill="#FFFFFF" cx="42.0421028" cy="0.899999976" r="1"></circle>
+                        <circle id="Oval-L" stroke-width="0.5" fill="#FFFFFF" cx="0.399999976" cy="0.899999976" r="1"></circle>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(403.516484, 96.153846)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="arrows/arrow-7" transform="translate(450.353218, 86.128205) scale(-1, 1) rotate(-270.000000) translate(-450.353218, -86.128205) translate(438.544741, 47.878205)">
+                    <g id="arrow-7">
+                        <path d="M3.43541663e-18,0 L1.30933402e-15,75.5426064 C1.32454658e-15,76.4226108 0.707280953,77.1359954 1.60307185,77.1359954 L22.797442,77.1359954" id="Path-6" stroke="#89969F" stroke-width="0.5"></path>
+                        <polygon id="Triangle-2-Copy-4" fill="#89969F" points="22.5599987 77.6159954 22.5599987 76.6559954 23.0399986 77.1359954"></polygon>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(467.566719, 96.153846)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="arrows/arrow-1" transform="translate(424.215856, 232.474359) rotate(-270.000000) translate(-424.215856, -232.474359) translate(342.715856, 231.474359)">
+                    <g id="arrow-1">
+                        <path d="M0.15999999,0.899999976 L164.140639,0.899999976" id="Line" stroke="#89969F" stroke-width="0.5" stroke-linecap="square"></path>
+                        <circle id="Oval" stroke="#89969F" stroke-width="0.5" fill="#FFFFFF" cx="0.399999976" cy="0.899999976" r="1"></circle>
+                        <polygon id="Triangle" fill="#89969F" points="164.23578 1.29999995 164.23578 0.5 164.71578 0.899999976"></polygon>
+                    </g>
+                </g>
+                <g id="tiles/question-dotted" transform="translate(414.500000, 174.000000)" fill="#EEF2F6" stroke="#B8C5D0" stroke-dasharray="0.4799999713897707">
+                    <g id="question-dotted">
+                        <use id="Rectangle-8" mask="url(#mask-4)" transform="translate(9.828571, 9.828571) rotate(-45.000000) translate(-9.828571, -9.828571) " xlink:href="#path-3"></use>
+                    </g>
+                </g>
+                <g id="tiles/main-page" transform="translate(403.000000, 215.000000)">
+                    <g id="main-page" transform="translate(-0.353684, 0.000000)">
+                        <rect id="Rectangle-7" fill="#B8C5D0" x="0.158677676" y="0" width="42.6357869" height="52.9999968" rx="0.799999952"></rect>
+                        <path d="M0.158677676,2.38410582 L42.7944646,2.38410582 L42.7944646,52.2049421 C42.7944646,52.6440387 42.4386819,52.9999968 41.9995395,52.9999968 L0.953602773,52.9999968 C0.514577765,52.9999968 0.158677676,52.6497487 0.158677676,52.2049421 L0.158677676,2.38410582 Z" id="Rectangle-7" fill="#EEF2F6"></path>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="1.34876025" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="2.45950399" cy="1.19205291" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-4" fill="#DEE7EE" cx="3.57024772" cy="1.19205291" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <g id="arrows/arrow-7" opacity="0.504575" transform="translate(461.000000, 522.000000)">
+                <g id="arrow-7">
+                    <path d="M1.35619907e-17,0 L5.18399378e-15,88.6354115 C5.23568834e-15,89.5215983 0.72442928,90.2399946 1.60027014,90.2399946 L89.997438,90.2399946" id="Path-6" stroke="#89969F" stroke-width="0.5"></path>
+                    <polygon id="Triangle-2-Copy-4" fill="#89969F" points="89.7599946 90.7199946 89.7599946 89.7599946 90.2399946 90.2399946"></polygon>
+                </g>
+            </g>
+            <g id="Macbook-Pro" transform="translate(252.000000, 788.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="51" y="1" width="398" height="270" rx="14"></rect>
+                <path d="M17,271 L480,271 C488.836556,271 496,278.163444 496,287 L1,287 L1,287 C1,278.163444 8.163444,271 17,271 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(248.500000, 279.000000) scale(1, -1) translate(-248.500000, -279.000000) "></path>
+                <path d="M433.210777,2.2195122 C442.365765,2.2195122 449.789474,9.67877884 449.789474,18.8764202 L449.789474,254.12358 C449.789474,263.323251 442.364828,270.780488 433.205252,270.780488 C432.582002,270.780488 432.087158,271.277343 432.087158,271.890244 C432.087158,272.503145 432.582002,273 433.192422,273 C443.585828,273 452,264.548893 452,254.12358 L452,18.8764202 C452,8.45333447 443.586962,0 433.210777,0 L411.105263,0 C410.494843,0 410,0.496854729 410,1.1097561 C410,1.72265747 410.494843,2.2195122 411.105263,2.2195122 L433.210777,2.2195122 Z" id="Rectangle-11" fill="#DADADA" fill-rule="nonzero"></path>
+                <path d="M67.789223,0 C57.4130376,0 49,8.45333447 49,18.8764202 L49,254.12358 C49,264.548893 57.4141724,273 67.7947479,273 C68.4179984,273 68.9128415,272.503145 68.9128415,271.890244 C68.9128415,271.277343 68.4179984,270.780488 67.8075784,270.780488 C58.6351723,270.780488 51.2105263,263.323251 51.2105263,254.12358 L51.2105263,18.8764202 C51.2105263,9.67877884 58.6342348,2.2195122 67.789223,2.2195122 L89.8947368,2.2195122 C90.5051568,2.2195122 91,1.72265747 91,1.1097561 C91,0.496854729 90.5051568,0 89.8947368,0 L67.789223,0 Z" id="Rectangle-11" fill="#DADADA" fill-rule="nonzero"></path>
+                <path d="M432.557178,21.887218 L432.114355,256.556391 L69.4428224,256.112782 L69.8856448,21.443609 L432.557178,21.887218 Z M69,256.556391 L432.557178,257 L433,21.443609 L69.4428224,21 L69,256.556391 Z" id="screen" fill="#DADADA" fill-rule="nonzero"></path>
+                <rect id="Rectangle-15-Copy" fill="#DADADA" x="67" y="0" width="366" height="2"></rect>
+                <polygon id="Rectangle-14-Copy" fill="#DADADA" points="4 271 493 271 493 273.5 4 273.5"></polygon>
+                <rect id="Rectangle-15" fill="#DADADA" x="67" y="285" width="366" height="2"></rect>
+                <path d="M1.29117742,271 L0.384527583,271 L0.206718966,271.857476 C0.178707173,271.992562 0.140656734,272.222545 0.103839885,272.53503 C-0.167116288,274.834781 0.0596006675,277.421299 1.17243286,279.898189 C1.55558866,280.750999 2.03524892,281.556869 2.61829946,282.306667 C3.93478802,283.999659 6.01748812,285.179624 8.6420425,285.958505 C10.1843792,286.41622 11.8239267,286.708158 13.4614166,286.870143 C14.0333413,286.926719 14.5650885,286.963136 15.0438948,286.983435 C15.3354901,286.995797 15.5479317,287 15.6683318,287 L73,287 L73,284.866667 L15.6683318,284.866667 C15.2849859,284.866667 14.5889776,284.837159 13.6870911,284.747942 C12.1834641,284.5992 10.6818946,284.33183 9.29252212,283.91951 C7.07452096,283.26128 5.3780646,282.300144 4.38779542,281.026667 C3.91099169,280.413501 3.51768018,279.752705 3.20194655,279.049959 C2.26603422,276.966849 2.07055018,274.736655 2.30156546,272.775903 C2.33110467,272.525188 2.3594103,272.354104 2.37563588,272.275857 L1.29117742,273.133333 L66.3643903,273.133333 L66.3643903,271 L1.29117742,271 Z" id="Path-10" fill="#DADADA" fill-rule="nonzero"></path>
+                <path d="M494.710095,273.133333 L493.626705,272.275857 C493.642915,272.354104 493.671192,272.525188 493.700703,272.775903 C493.93149,274.736655 493.736199,276.966849 492.801209,279.049959 C492.485786,279.752705 492.092862,280.413501 491.616528,281.026667 C490.627235,282.300144 488.93245,283.26128 486.716635,283.91951 C485.328631,284.33183 483.828541,284.5992 482.326396,284.747942 C481.425398,284.837159 480.730076,284.866667 480.347108,284.866667 L424,284.866667 L424,287 L480.347108,287 C480.467389,287 480.679621,286.995797 480.970929,286.983435 C481.449264,286.963136 481.980487,286.926719 482.551848,286.870143 C484.187725,286.708158 485.825656,286.41622 487.366473,285.958505 C489.988442,285.179624 492.069089,283.999659 493.384281,282.306667 C493.966757,281.556869 494.445944,280.750999 494.828722,279.898189 C495.940458,277.421299 496.166952,274.834781 495.896262,272.53503 C495.859482,272.222545 495.821469,271.992562 495.793485,271.857476 L495.615851,271 L494.710095,271 L432.838766,271 L432.838766,273.133333 L494.710095,273.133333 Z" id="Path-10" fill="#DADADA" fill-rule="nonzero"></path>
+                <g id="desktop-screen" transform="translate(69.000000, 21.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#333351" fill-rule="nonzero" xlink:href="#path-5"></use>
+                    <g id="Rectangle" fill-rule="nonzero" mask="url(#mask-6)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="#29292E" xlink:href="#path-7"></use>
+                    </g>
+                    <rect id="Rectangle" fill="#455292" fill-rule="nonzero" mask="url(#mask-6)" x="0" y="0" width="30.2364217" height="26.8712871"></rect>
+                    <text id="Sun-Outlined---FontAwesome" mask="url(#mask-6)" font-family="FontAwesome" font-size="11" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="8.14057508" y="19.2722772"></tspan>
+                    </text>
+                    <rect id="Rectangle" stroke="#565656" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-6)" x="118.869808" y="30.6262376" width="58.8099042" height="12.3514851" rx="5.5"></rect>
+                    <text id="Overview" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="9" font-weight="normal" letter-spacing="0.200000003" fill="#A2A2A2">
+                        <tspan x="62.798722" y="39.2178218">Overvie</tspan>
+                        <tspan x="89.4977221" y="39.2178218">w</tspan>
+                    </text>
+                    <text id="50%" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="9" font-weight="normal" letter-spacing="0.200000003" fill="#A2A2A2">
+                        <tspan x="64.1792364" y="191.09901">50%</tspan>
+                    </text>
+                    <text id="CPU" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5" font-weight="normal" letter-spacing="0.1" fill="#9B9B9B">
+                        <tspan x="67.5922364" y="198.361386">CPU</tspan>
+                    </text>
+                    <text id="Dec-14th-18th" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5" font-weight="normal" letter-spacing="0.1" fill="#9B9B9B">
+                        <tspan x="62.798722" y="48.8168317">Dec 14th-18th</tspan>
+                    </text>
+                    <text id="Type:" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5" font-weight="normal" letter-spacing="0.1" fill="#4E4E4E">
+                        <tspan x="123.271565" y="38.3019802">Type:</tspan>
+                    </text>
+                    <text id="Active" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5" font-weight="normal" letter-spacing="0.1" fill="#ACACAC">
+                        <tspan x="138.389776" y="38.3019802">Active</tspan>
+                    </text>
+                    <polyline id="Path-30" stroke="#979797" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-6)" points="168.521043 36.2178218 169.985046 37.6885942 171.449049 36.2178218"></polyline>
+                    <path d="M36.0511182,116.247525 L352.370607,116.247525" id="Path-2" stroke="#5E5E5E" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-6)"></path>
+                    <polyline id="Path-34" stroke="#646464" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-6)" points="80.2428115 120.336634 80.2428115 124.211264 115.725596 124.211264 115.725596 120.336634"></polyline>
+                    <polyline id="Path-34" stroke="#646464" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-6)" points="162.811502 120.336634 162.811502 124.211264 222.716012 124.211264 222.716012 120.336634"></polyline>
+                    <path d="M36.0511182,92.8811881 L352.370607,92.8811881" id="Path-2-Copy" stroke="#3B3A3A" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-6)"></path>
+                    <path d="M36.0511182,69.5148515 L352.370607,69.5148515" id="Path-2-Copy-2" stroke="#3B3A3A" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-6)"></path>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="63.9616613" y="70.0990099" width="2.32587859" height="45.5643564"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="80.2428115" y="84.1188119" width="2.32587859" height="31.5445545"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="91.8722045" y="78.2772277" width="2.32587859" height="37.3861386"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="103.501597" y="112.158416" width="2.32587859" height="3.5049505"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="115.13099" y="103.980198" width="2.32587859" height="11.6831683"></rect>
+                    <rect id="Rectangle" fill="#E67100" fill-rule="nonzero" mask="url(#mask-6)" x="126.760383" y="116.831683" width="2.32587859" height="28.039604"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="138.389776" y="107.485149" width="2.32587859" height="8.17821782"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="150.019169" y="96.970297" width="2.32587859" height="18.6930693"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="161.648562" y="65.4257426" width="2.32587859" height="50.2376238"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="173.277955" y="87.6237624" width="2.32587859" height="28.039604"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="184.907348" y="91.1287129" width="2.32587859" height="24.5346535"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="196.536741" y="106.316832" width="2.32587859" height="9.34653465"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="208.166134" y="107.485149" width="2.32587859" height="8.17821782"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="219.795527" y="87.6237624" width="2.32587859" height="28.039604"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="231.42492" y="80.6138614" width="2.32587859" height="35.049505"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="243.054313" y="107.485149" width="2.32587859" height="8.17821782"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="254.683706" y="95.8019802" width="2.32587859" height="19.8613861"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="266.313099" y="108.653465" width="2.32587859" height="7.00990099"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="277.942492" y="101.643564" width="2.32587859" height="14.019802"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="289.571885" y="68.9306931" width="2.32587859" height="46.7326733"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="301.201278" y="103.980198" width="2.32587859" height="11.6831683"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="312.830671" y="98.1386139" width="2.32587859" height="17.5247525"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="324.460064" y="87.6237624" width="2.32587859" height="28.039604"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-6)" x="336.089457" y="87.6237624" width="2.32587859" height="28.039604"></rect>
+                    <rect id="Rectangle" fill="#E67100" fill-rule="nonzero" mask="url(#mask-6)" x="72.1022364" y="116.831683" width="2.32587859" height="16.3564356"></rect>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-6)" cx="71.5207668" cy="191.019802" rx="26.1661342" ry="26.2871287"></ellipse>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-6)" cx="71.5207668" cy="191.019802" rx="22.6773163" ry="22.7821782"></ellipse>
+                    <g id="Rectangle" fill-rule="nonzero" mask="url(#mask-6)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill="#3E3E44" xlink:href="#path-9"></use>
+                    </g>
+                    <path d="M71.5207668,168.237624 L71.5207668,164.732673 C57.0696099,164.732673 45.3546326,176.501822 45.3546326,191.019802 C45.3546326,205.537782 57.0696099,217.306931 71.5207668,217.306931 L71.5207668,213.80198 C58.9964308,213.80198 48.8434505,203.602052 48.8434505,191.019802 C48.8434505,178.437552 58.9964308,168.237624 71.5207668,168.237624 Z" id="Combined-Shape" fill="url(#linearGradient-11)" fill-rule="nonzero" mask="url(#mask-6)"></path>
+                    <text id="37%" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="9" font-weight="normal" letter-spacing="0.200000003" fill="#A2A2A2">
+                        <tspan x="146.034987" y="191.09901">37%</tspan>
+                    </text>
+                    <text id="CPU" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5" font-weight="normal" letter-spacing="0.1" fill="#9B9B9B">
+                        <tspan x="148.997987" y="198.361386">CPU</tspan>
+                    </text>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-6)" cx="152.926518" cy="191.019802" rx="26.1661342" ry="26.2871287"></ellipse>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-6)" cx="152.926518" cy="191.019802" rx="22.6773163" ry="22.7821782"></ellipse>
+                    <path d="M136.819733,207.057083 L135.470454,210.602635 C130.124256,205.789621 126.760383,198.799365 126.760383,191.019802 C126.760383,176.501822 138.475361,164.732673 152.926518,164.732673 L151.577605,168.277261 C139.681224,168.978365 130.249201,178.892507 130.249201,191.019802 C130.249201,197.274308 132.757984,202.940147 136.819732,207.057083 Z M152.926518,217.306931 L152.926518,213.80198 L152.926518,217.306931 Z" id="Combined-Shape" fill="url(#linearGradient-11)" fill-rule="nonzero" mask="url(#mask-6)"></path>
+                    <text id="home---FontAwesome" mask="url(#mask-6)" font-family="FontAwesome" font-size="7" font-weight="normal" fill="#D5D5D5">
+                        <tspan x="11.629393" y="48.6485149"></tspan>
+                    </text>
+                    <text id="video-camera---FontAwesome" mask="url(#mask-6)" font-family="FontAwesome" font-size="7" font-weight="normal" fill="#747474">
+                        <tspan x="11.629393" y="72.5990099"></tspan>
+                    </text>
+                    <text id="Sliders---FontAwesome" mask="url(#mask-6)" font-family="FontAwesome" font-size="7" font-weight="normal" fill="#747474">
+                        <tspan x="11.629393" y="96.549505"></tspan>
+                    </text>
+                    <text id="Total-Users" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="6" font-weight="normal" letter-spacing="0.1333333" fill="#FFFFFF">
+                        <tspan x="213.94683" y="125.925743">Total Users</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-6)" x="251.194888" y="122.673267" width="77.9169329" height="2.33663366"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#9E9E9E" fill-rule="nonzero" mask="url(#mask-6)" x="251.194888" y="139.029703" width="77.9169329" height="2.33663366"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#9E9E9E" fill-rule="nonzero" mask="url(#mask-6)" x="251.194888" y="155.386139" width="77.9169329" height="2.33663366"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#9E9E9E" fill-rule="nonzero" mask="url(#mask-6)" x="251.194888" y="170.574257" width="77.9169329" height="2.33663366"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-6)" x="251.194888" y="139.029703" width="46.5175719" height="2.33663366"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-13)" fill-rule="nonzero" mask="url(#mask-6)" x="251.194888" y="155.386139" width="23.2587859" height="2.33663366"></rect>
+                    <rect id="Rectangle-Copy" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-6)" x="251.194888" y="170.574257" width="62.798722" height="2.33663366"></rect>
+                    <text id="Requests" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="6" font-weight="normal" letter-spacing="0.1333333" fill="#747474">
+                        <tspan x="213.618481" y="142.282178">Requests</tspan>
+                    </text>
+                    <text id="Timeouts" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="6" font-weight="normal" letter-spacing="0.1333333" fill="#747474">
+                        <tspan x="213.755951" y="158.638614">Timeouts</tspan>
+                    </text>
+                    <text id="Terminated" mask="url(#mask-6)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="6" font-weight="normal" letter-spacing="0.1333333" fill="#747474">
+                        <tspan x="213.797496" y="174.99505">Terminated</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="iPad" transform="translate(190.000000, 846.000000)">
+                <rect id="fill" fill="#FFFFFF" fill-rule="nonzero" x="0" y="1.84466019" width="203" height="283.15534" rx="10"></rect>
+                <path d="M109.018519,271.875 C109.018519,267.732864 105.652363,264.375 101.5,264.375 C97.3476369,264.375 93.9814815,267.732864 93.9814815,271.875 C93.9814815,276.017136 97.3476369,279.375 101.5,279.375 C105.652363,279.375 109.018519,276.017136 109.018519,271.875 Z M95.8611111,271.875 C95.8611111,268.768398 98.3857277,266.25 101.5,266.25 C104.614272,266.25 107.138889,268.768398 107.138889,271.875 C107.138889,274.981602 104.614272,277.5 101.5,277.5 C98.3857277,277.5 95.8611111,274.981602 95.8611111,271.875 Z M11.2777778,25.125 L12.0296296,24.375 L12.0296296,260.625 L11.2777778,259.875 L191.722222,259.875 L190.97037,260.625 L190.97037,24.375 L191.722222,25.125 L11.2777778,25.125 Z M191.722222,24.375 L191.722222,260.625 L11.2777778,260.625 L11.2777778,24.375 L191.722222,24.375 Z M1.87962963,275.639184 C1.87962963,279.771497 5.24064131,283.125 9.38398093,283.125 L193.616019,283.125 C197.765552,283.125 201.12037,279.776491 201.12037,275.639184 L201.12037,9.36081561 C201.12037,5.22850273 197.759359,1.875 193.616019,1.875 L9.38398093,1.875 C5.23444779,1.875 1.87962963,5.22350944 1.87962963,9.36081561 L1.87962963,275.639184 Z M9.38398093,0 L193.616019,0 C198.798649,0 203,4.19416526 203,9.36081561 L203,275.639184 C203,280.80902 198.806653,285 193.616019,285 L9.38398093,285 C4.20135137,285 0,280.805835 0,275.639184 L0,9.36081561 C0,4.1909799 4.19334669,0 9.38398093,0 Z M103.37963,15 C104.41772,15 105.259259,14.1605339 105.259259,13.125 C105.259259,12.0894661 104.41772,11.25 103.37963,11.25 C102.341539,11.25 101.5,12.0894661 101.5,13.125 C101.5,14.1605339 102.341539,15 103.37963,15 Z" id="Combined-Shape" fill="#DADADA" fill-rule="nonzero"></path>
+                <g id="tablet-screen" transform="translate(12.000000, 25.000000)">
+                    <mask id="mask-15" fill="white">
+                        <use xlink:href="#path-14"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#333351" fill-rule="nonzero" xlink:href="#path-14"></use>
+                    <g id="Rectangle" fill-rule="nonzero" mask="url(#mask-15)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                        <use fill="#29292E" xlink:href="#path-16"></use>
+                    </g>
+                    <rect id="Rectangle" fill="#455292" fill-rule="nonzero" mask="url(#mask-15)" x="0" y="0" width="24.1139896" height="21.2862745"></rect>
+                    <text id="Sun-Outlined---FontAwesome" mask="url(#mask-15)" font-family="FontAwesome" font-size="11" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="6.49222798" y="15.9941176"></tspan>
+                    </text>
+                    <rect id="Rectangle" stroke="#565656" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-15)" x="94.8510363" y="24.3127451" width="46.8005181" height="9.68039216" rx="4.84019608"></rect>
+                    <text id="Overview" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="9" font-weight="normal" letter-spacing="0.200000003" fill="#A2A2A2">
+                        <tspan x="50.0829016" y="31.3176471">Overvie</tspan>
+                        <tspan x="76.7819016" y="31.3176471">w</tspan>
+                    </text>
+                    <text id="50%" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="9" font-weight="normal" letter-spacing="0.200000003" fill="#A2A2A2">
+                        <tspan x="52.7080907" y="231.223529">50</tspan>
+                        <tspan x="54.3740907" y="241.223529">%</tspan>
+                    </text>
+                    <text id="CPU" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5" font-weight="normal" letter-spacing="0.1" fill="#9B9B9B">
+                        <tspan x="52.9925907" y="237.037255">CPU</tspan>
+                    </text>
+                    <text id="Dec-14th-18th" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5" font-weight="normal" letter-spacing="0.1" fill="#9B9B9B">
+                        <tspan x="50.0829016" y="38.7960784">Dec 14th-18th</tspan>
+                    </text>
+                    <text id="Type:" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5" font-weight="normal" letter-spacing="0.1" fill="#4E4E4E">
+                        <tspan x="98.3108808" y="30.4666667">Type</tspan>
+                        <tspan x="98.3108808" y="35.4666667">:</tspan>
+                    </text>
+                    <text id="Active" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5" font-weight="normal" letter-spacing="0.1" fill="#ACACAC">
+                        <tspan x="110.367876" y="30.4666667">Active</tspan>
+                    </text>
+                    <polyline id="Path-30" stroke="#979797" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-15)" points="134.398003 28.6901961 135.565567 29.8552786 136.73313 28.6901961"></polyline>
+                    <path d="M28.7512953,92.0862745 L184.564767,92.0862745" id="Path-2" stroke="#5E5E5E" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-15)"></path>
+                    <polyline id="Path-34" stroke="#646464" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-15)" points="50.0829016 104.580392 50.0829016 106.724217 68.4885646 106.724217 68.4885646 104.580392"></polyline>
+                    <polyline id="Path-34" stroke="#646464" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-15)" points="141.901554 99.9529412 141.901554 103.022256 180.684084 103.022256 180.684084 99.9529412"></polyline>
+                    <path d="M28.7512953,73.5764706 L184.564767,73.5764706" id="Path-2-Copy" stroke="#3B3A3A" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-15)"></path>
+                    <path d="M28.7512953,55.0666667 L184.564767,55.0666667" id="Path-2-Copy-2" stroke="#3B3A3A" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-15)"></path>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="42.6632124" y="55.5294118" width="1" height="36.0941176"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="50.0829016" y="66.6352941" width="1" height="24.9882353"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="56.5751295" y="62.0078431" width="1" height="29.6156863"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="62.1398964" y="88.8470588" width="1" height="2.77647059"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="67.7046632" y="82.3686275" width="1" height="9.25490196"></rect>
+                    <rect id="Rectangle" fill="#E67100" fill-rule="nonzero" mask="url(#mask-15)" x="73.2694301" y="92.5490196" width="1" height="22.2117647"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="78.8341969" y="85.145098" width="1" height="6.47843137"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="85.3264249" y="76.8156863" width="1" height="14.8078431"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="90.8911917" y="51.827451" width="1" height="39.7960784"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="96.4559585" y="69.4117647" width="1" height="22.2117647"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="102.020725" y="72.1882353" width="1" height="19.4352941"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="107.585492" y="84.2196078" width="1" height="7.40392157"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="113.150259" y="85.145098" width="1" height="6.47843137"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="119.642487" y="69.4117647" width="1" height="22.2117647"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="125.207254" y="63.8588235" width="1" height="27.7647059"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="130.772021" y="85.145098" width="1" height="6.47843137"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="136.336788" y="75.8901961" width="1" height="15.7333333"></rect>
+                    <rect id="Rectangle" fill="#E67100" fill-rule="nonzero" mask="url(#mask-15)" x="141.901554" y="92.5490196" width="1" height="5.55294118"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="147.466321" y="80.5176471" width="1" height="11.1058824"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="153.958549" y="54.6039216" width="1" height="37.0196078"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="159.523316" y="82.3686275" width="1" height="9.25490196"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="165.088083" y="77.7411765" width="1" height="13.8823529"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="170.65285" y="69.4117647" width="1" height="22.2117647"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-15)" x="176.217617" y="69.4117647" width="1" height="22.2117647"></rect>
+                    <rect id="Rectangle" fill="#E67100" fill-rule="nonzero" mask="url(#mask-15)" x="46.373057" y="92.5490196" width="1" height="12.9568627"></rect>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-15)" cx="57.0388601" cy="230.909804" rx="20.8678756" ry="20.8235294"></ellipse>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-15)" cx="57.0388601" cy="230.909804" rx="18.0854922" ry="18.0470588"></ellipse>
+                    <g id="Rectangle" fill-rule="nonzero" mask="url(#mask-15)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                        <use fill="#3E3E44" xlink:href="#path-18"></use>
+                    </g>
+                    <path d="M57.0388601,212.862745 L57.0388601,210.086275 C45.5138506,210.086275 36.1709845,219.409286 36.1709845,230.909804 C36.1709845,242.410322 45.5138506,251.733333 57.0388601,251.733333 L57.0388601,248.956863 C47.0505186,248.956863 38.9533679,240.876919 38.9533679,230.909804 C38.9533679,220.942689 47.0505186,212.862745 57.0388601,212.862745 Z" id="Combined-Shape" fill="url(#linearGradient-11)" fill-rule="nonzero" mask="url(#mask-15)"></path>
+                    <text id="37%" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="9" font-weight="normal" letter-spacing="0.200000003" fill="#A2A2A2">
+                        <tspan x="118.08037" y="231.223529">37</tspan>
+                        <tspan x="119.29637" y="241.223529">%</tspan>
+                    </text>
+                    <text id="CPU" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="5" font-weight="normal" letter-spacing="0.1" fill="#9B9B9B">
+                        <tspan x="117.91487" y="237.037255">CPU</tspan>
+                    </text>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-15)" cx="121.96114" cy="230.909804" rx="20.8678756" ry="20.8235294"></ellipse>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.25" fill-rule="nonzero" mask="url(#mask-15)" cx="121.96114" cy="230.909804" rx="18.0854922" ry="18.0470588"></ellipse>
+                    <path d="M121.96114,212.862745 L121.96114,210.086275 C110.43613,210.086275 101.093264,219.409286 101.093264,230.909804 C101.093264,242.410322 110.43613,251.733333 121.96114,251.733333 L121.96114,248.956863 C111.972798,248.956863 103.875648,240.876919 103.875648,230.909804 C103.875648,220.942689 111.972798,212.862745 121.96114,212.862745 Z" id="Combined-Shape" fill="url(#linearGradient-11)" fill-rule="nonzero" mask="url(#mask-15)"></path>
+                    <text id="home---FontAwesome" mask="url(#mask-15)" font-family="FontAwesome" font-size="7" font-weight="normal" fill="#D5D5D5">
+                        <tspan x="9.2746114" y="39.0568627"></tspan>
+                    </text>
+                    <text id="video-camera---FontAwesome" mask="url(#mask-15)" font-family="FontAwesome" font-size="7" font-weight="normal" fill="#747474">
+                        <tspan x="9.2746114" y="58.0294118"></tspan>
+                    </text>
+                    <text id="Sliders---FontAwesome" mask="url(#mask-15)" font-family="FontAwesome" font-size="7" font-weight="normal" fill="#747474">
+                        <tspan x="9.2746114" y="77.0019608"></tspan>
+                    </text>
+                    <text id="Total-Users" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="6" font-weight="normal" letter-spacing="0.1333333" fill="#FFFFFF">
+                        <tspan x="47.4586409" y="146.078431">Total Users</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-15)" x="79.761658" y="143.45098" width="62.1398964" height="1.85098039"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#9E9E9E" fill-rule="nonzero" mask="url(#mask-15)" x="79.761658" y="156.407843" width="62.1398964" height="1.85098039"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#9E9E9E" fill-rule="nonzero" mask="url(#mask-15)" x="79.761658" y="169.364706" width="62.1398964" height="1.85098039"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#9E9E9E" fill-rule="nonzero" mask="url(#mask-15)" x="79.761658" y="181.396078" width="62.1398964" height="1.85098039"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-15)" x="79.761658" y="156.407843" width="37.0984456" height="1.85098039"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-13)" fill-rule="nonzero" mask="url(#mask-15)" x="79.761658" y="169.364706" width="18.5492228" height="1.85098039"></rect>
+                    <rect id="Rectangle-Copy" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-15)" x="79.761658" y="181.396078" width="50.0829016" height="1.85098039"></rect>
+                    <text id="Requests" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="6" font-weight="normal" letter-spacing="0.1333333" fill="#747474">
+                        <tspan x="47.718988" y="159.035294">Requests</tspan>
+                    </text>
+                    <text id="Timeouts" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="6" font-weight="normal" letter-spacing="0.1333333" fill="#747474">
+                        <tspan x="47.7387186" y="171.992157">Timeouts</tspan>
+                    </text>
+                    <text id="Terminated" mask="url(#mask-15)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="6" font-weight="normal" letter-spacing="0.1333333" fill="#747474">
+                        <tspan x="47.3093076" y="184.94902">Terminated</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="iPhone-Front" transform="translate(657.000000, 889.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="3" y="2" width="92" height="199" rx="13"></rect>
+                <path d="M7.60784314,17.8481958 L8.36862745,17.048818 L8.36862745,186.968282 L7.60784314,186.168904 L92.3222046,186.168904 L91.5614202,186.968282 L91.5614202,17.048818 L92.3222046,17.8481958 L7.60784314,17.8481958 Z M92.3222041,17.048818 L92.3222041,186.968282 L7.60784314,186.968282 L7.60784314,17.048818 L92.3222041,17.048818 Z M39.9411765,9.23259597 C39.9411765,8.70636238 40.3643117,8.27976578 40.8858782,8.27976578 L56.1141218,8.27976578 C56.6358662,8.27976578 57.0588235,8.70269358 57.0588235,9.23259597 L57.0588235,9.23259597 C57.0588235,9.75882955 56.6356883,10.1854262 56.1141218,10.1854262 L40.8858782,10.1854262 C40.3641338,10.1854262 39.9411765,9.76249835 39.9411765,9.23259597 L39.9411765,9.23259597 Z M3.80392157,186.755085 C3.80392157,194.114683 9.77326848,200.09434 17.1283607,200.09434 L81.7736001,200.09434 C89.1429844,200.09434 95.0980392,194.127702 95.0980392,186.755085 L95.0980392,15.244915 C95.0980392,7.88531732 89.1286923,1.90566038 81.7736001,1.90566038 L17.1283607,1.90566038 C9.75897641,1.90566038 3.80392157,7.87229792 3.80392157,15.244915 L3.80392157,186.755085 Z M17.1283607,0 L81.7736001,0 C90.1829086,0 97,6.83664898 97,15.244915 L97,186.755085 C97,195.174619 90.1989477,202 81.7736001,202 L17.1283607,202 C8.71905223,202 1.90196078,195.163351 1.90196078,186.755085 L1.90196078,15.244915 C1.90196078,6.82538095 8.70301306,0 17.1283607,0 Z M0,27.6139308 C0,27.0977182 0.4411286,26.6792453 0.950980392,26.6792453 L1.90196078,26.6792453 L1.90196078,34.3018868 L0.950980392,34.3018868 C0.425768424,34.3018868 0,33.8920605 0,33.3672013 L0,27.6139308 L0,27.6139308 L0,27.6139308 Z M0,44.7838494 C0,44.2571571 0.4411286,43.8301887 0.950980392,43.8301887 L1.90196078,43.8301887 L1.90196078,59.0754717 L0.950980392,59.0754717 C0.425768424,59.0754717 0,58.6356514 0,58.121811 L0,44.7838494 L0,44.7838494 L0,44.7838494 Z M0,63.8404532 C0,63.3137609 0.4411286,62.8867925 0.950980392,62.8867925 L1.90196078,62.8867925 L1.90196078,78.1320755 L0.950980392,78.1320755 C0.425768424,78.1320755 0,77.6922551 0,77.1784147 L0,63.8404532 L0,63.8404532 L0,63.8404532 Z" id="Combined-Shape" fill="#DADADA" fill-rule="nonzero"></path>
+                <g id="mmobile-screen" transform="translate(8.000000, 18.000000)">
+                    <mask id="mask-21" fill="white">
+                        <use xlink:href="#path-20"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#333351" fill-rule="nonzero" xlink:href="#path-20"></use>
+                    <g id="Rectangle" fill-rule="nonzero" mask="url(#mask-21)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-22"></use>
+                        <use fill="#29292E" xlink:href="#path-22"></use>
+                    </g>
+                    <rect id="Rectangle" fill="#455292" fill-rule="nonzero" mask="url(#mask-21)" x="5" y="154" width="13.0569948" height="13.6431373"></rect>
+                    <rect id="Rectangle" stroke="#565656" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)" x="56.5505181" y="12.2813725" width="23.1502591" height="4.59019608" rx="2.29509804"></rect>
+                    <text id="Overview" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="4.5" font-weight="normal" letter-spacing="0.100000001" fill="#A2A2A2">
+                        <tspan x="9.04145078" y="15.6588235">Overvie</tspan>
+                        <tspan x="22.3909508" y="15.6588235">w</tspan>
+                    </text>
+                    <text id="50%" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="4.5" font-weight="normal" letter-spacing="0.100000001" fill="#A2A2A2">
+                        <tspan x="24.7897953" y="115.611765">50%</tspan>
+                    </text>
+                    <text id="CPU" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.5" font-weight="normal" letter-spacing="0.0500000007" fill="#9B9B9B">
+                        <tspan x="26.4962953" y="118.518627">CPU</tspan>
+                    </text>
+                    <text id="Dec-14th-18th" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.5" font-weight="normal" letter-spacing="0.0500000007" fill="#9B9B9B">
+                        <tspan x="9.04145078" y="19.3980392">Dec 14th-18th</tspan>
+                    </text>
+                    <text id="Type:" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.5" font-weight="normal" letter-spacing="0.0500000007" fill="#4E4E4E">
+                        <tspan x="58.1554404" y="15.2333333">Type</tspan>
+                        <tspan x="58.1554404" y="18.2333333">:</tspan>
+                    </text>
+                    <text id="Active" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.5" font-weight="normal" letter-spacing="0.0500000007" fill="#ACACAC">
+                        <tspan x="64.1839378" y="15.2333333">Active</tspan>
+                    </text>
+                    <polyline id="Path-30" stroke="#979797" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)" points="76.1990015 14.345098 76.7827833 14.9276393 77.3665651 14.345098"></polyline>
+                    <path d="M14.3756477,46.0431373 L92.2823834,46.0431373" id="Path-2" stroke="#5E5E5E" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)"></path>
+                    <polyline id="Path-34" stroke="#646464" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)" points="25.0414508 52.2901961 25.0414508 53.3621084 34.2442823 53.3621084 34.2442823 52.2901961"></polyline>
+                    <polyline id="Path-34" stroke="#646464" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)" points="70.9507772 49.9764706 70.9507772 51.511128 90.3420421 51.511128 90.3420421 49.9764706"></polyline>
+                    <path d="M14.3756477,36.7882353 L92.2823834,36.7882353" id="Path-2-Copy" stroke="#3B3A3A" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)"></path>
+                    <path d="M14.3756477,27.5333333 L92.2823834,27.5333333" id="Path-2-Copy-2" stroke="#3B3A3A" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)"></path>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="21.3316062" y="27.7647059" width="1" height="18.0470588"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="25.0414508" y="33.3176471" width="1" height="12.4941176"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="28.2875648" y="31.0039216" width="1" height="14.8078431"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="31.0699482" y="44.4235294" width="1" height="1.38823529"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="33.8523316" y="41.1843137" width="1" height="4.62745098"></rect>
+                    <rect id="Rectangle" fill="#E67100" fill-rule="nonzero" mask="url(#mask-21)" x="36.634715" y="46.2745098" width="1" height="11.1058824"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="39.4170984" y="42.572549" width="1" height="3.23921569"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="42.6632124" y="38.4078431" width="1" height="7.40392157"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="45.4455959" y="25.9137255" width="1" height="19.8980392"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="48.2279793" y="34.7058824" width="1" height="11.1058824"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="51.0103627" y="36.0941176" width="1" height="9.71764706"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="53.7927461" y="42.1098039" width="1" height="3.70196078"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="56.5751295" y="42.572549" width="1" height="3.23921569"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="59.8212435" y="34.7058824" width="1" height="11.1058824"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="62.6036269" y="31.9294118" width="1" height="13.8823529"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="65.3860104" y="42.572549" width="1" height="3.23921569"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="68.1683938" y="37.945098" width="1" height="7.86666667"></rect>
+                    <rect id="Rectangle" fill="#E67100" fill-rule="nonzero" mask="url(#mask-21)" x="70.9507772" y="46.2745098" width="1" height="2.77647059"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="73.7331606" y="40.2588235" width="1" height="5.55294118"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="76.9792746" y="27.3019608" width="1" height="18.5098039"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="79.761658" y="41.1843137" width="1" height="4.62745098"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="82.5440415" y="38.8705882" width="1" height="6.94117647"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="85.3264249" y="34.7058824" width="1" height="11.1058824"></rect>
+                    <rect id="Rectangle" fill="#5D71D2" fill-rule="nonzero" mask="url(#mask-21)" x="88.1088083" y="34.7058824" width="1" height="11.1058824"></rect>
+                    <rect id="Rectangle" fill="#E67100" fill-rule="nonzero" mask="url(#mask-21)" x="23.1865285" y="46.2745098" width="1" height="6.47843137"></rect>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)" cx="28.5194301" cy="115.454902" rx="10.4339378" ry="10.4117647"></ellipse>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)" cx="28.5194301" cy="115.454902" rx="9.04274611" ry="9.02352941"></ellipse>
+                    <g id="Rectangle" fill-rule="nonzero" mask="url(#mask-21)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href="#path-24"></use>
+                        <use fill="#3E3E44" xlink:href="#path-24"></use>
+                    </g>
+                    <path d="M28.5194301,106.431373 L28.5194301,105.043137 C22.7569253,105.043137 18.0854922,109.704643 18.0854922,115.454902 C18.0854922,121.205161 22.7569253,125.866667 28.5194301,125.866667 L28.5194301,124.478431 C23.5252593,124.478431 19.4766839,120.43846 19.4766839,115.454902 C19.4766839,110.471344 23.5252593,106.431373 28.5194301,106.431373 Z" id="Combined-Shape" fill="url(#linearGradient-11)" fill-rule="nonzero" mask="url(#mask-21)"></path>
+                    <text id="37%" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="4.5" font-weight="normal" letter-spacing="0.100000001" fill="#A2A2A2">
+                        <tspan x="57.4759352" y="115.611765">37%</tspan>
+                    </text>
+                    <text id="CPU" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="2.5" font-weight="normal" letter-spacing="0.0500000007" fill="#9B9B9B">
+                        <tspan x="58.9574352" y="118.518627">CPU</tspan>
+                    </text>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)" cx="60.9805699" cy="115.454902" rx="10.4339378" ry="10.4117647"></ellipse>
+                    <ellipse id="Oval" stroke="#5E5E5E" stroke-width="0.5" fill-rule="nonzero" mask="url(#mask-21)" cx="60.9805699" cy="115.454902" rx="9.04274611" ry="9.02352941"></ellipse>
+                    <path d="M60.9805699,106.431373 L60.9805699,105.043137 C55.2180652,105.043137 50.5466321,109.704643 50.5466321,115.454902 C50.5466321,121.205161 55.2180652,125.866667 60.9805699,125.866667 L60.9805699,124.478431 C55.9863992,124.478431 51.9378238,120.43846 51.9378238,115.454902 C51.9378238,110.471344 55.9863992,106.431373 60.9805699,106.431373 Z" id="Combined-Shape" fill="url(#linearGradient-11)" fill-rule="nonzero" mask="url(#mask-21)"></path>
+                    <text id="Total-Users" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3" font-weight="normal" letter-spacing="0.0666666478" fill="#FFFFFF">
+                        <tspan x="17.7293205" y="73.5392157">Total Users</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-21)" x="33.880829" y="71.7254902" width="31.0699482" height="1"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#9E9E9E" fill-rule="nonzero" mask="url(#mask-21)" x="33.880829" y="78.2039216" width="31.0699482" height="1"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#9E9E9E" fill-rule="nonzero" mask="url(#mask-21)" x="33.880829" y="84.6823529" width="31.0699482" height="1"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#9E9E9E" fill-rule="nonzero" mask="url(#mask-21)" x="33.880829" y="90.6980392" width="31.0699482" height="1"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-21)" x="33.880829" y="78.2039216" width="18.5492228" height="1"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-13)" fill-rule="nonzero" mask="url(#mask-21)" x="33.880829" y="84.6823529" width="9.2746114" height="1"></rect>
+                    <rect id="Rectangle-Copy" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-21)" x="33.880829" y="90.6980392" width="25.0414508" height="1"></rect>
+                    <text id="Requests" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3" font-weight="normal" letter-spacing="0.0666666478" fill="#747474">
+                        <tspan x="17.859494" y="80.0176471">Requests</tspan>
+                    </text>
+                    <text id="Timeouts" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3" font-weight="normal" letter-spacing="0.0666666478" fill="#747474">
+                        <tspan x="17.8693593" y="86.4960784">Timeouts</tspan>
+                    </text>
+                    <text id="Terminated" mask="url(#mask-21)" font-family="MrEavesModOT-Reg, Mr Eaves Mod OT" font-size="3" font-weight="normal" letter-spacing="0.0666666478" fill="#747474">
+                        <tspan x="17.6546538" y="92.9745098">Terminated</tspan>
+                    </text>
+                    <text id="Sun-Outlined---FontAwesome" mask="url(#mask-21)" font-family="FontAwesome" font-size="5.5" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="9" y="163"></tspan>
+                    </text>
+                    <text id="home---FontAwesome" mask="url(#mask-21)" font-family="FontAwesome" font-size="3.5" font-weight="normal" fill="#D5D5D5">
+                        <tspan x="41" y="163"></tspan>
+                    </text>
+                    <text id="video-camera---FontAwesome" mask="url(#mask-21)" font-family="FontAwesome" font-size="3.5" font-weight="normal" fill="#747474">
+                        <tspan x="56" y="163"></tspan>
+                    </text>
+                    <text id="Sliders---FontAwesome" mask="url(#mask-21)" font-family="FontAwesome" font-size="3.5" font-weight="normal" fill="#747474">
+                        <tspan x="70" y="163"></tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="BASIC_PAGE" transform="translate(353.000000, 282.000000)">
+                <g>
+                    <g id="Browser_frame">
+                        <g id="BG">
+                            <rect id="Browser_frame" fill="#DBE2EE" opacity="0.40327381" x="0" y="0" width="343" height="240" rx="10"></rect>
+                            <rect id="Main_AREA" fill="#CCD6E6" opacity="0.5" x="16.3333333" y="33.1428571" width="310.333333" height="195.428571" rx="5"></rect>
+                        </g>
+                        <g id="Top" transform="translate(16.333333, 8.000000)">
+                            <circle id="Close" fill="#F14235" cx="4.78571429" cy="6.85714286" r="4.78571429"></circle>
+                            <circle id="Minimise" fill="#F5A623" cx="21.0571429" cy="6.85714286" r="4.78571429"></circle>
+                            <circle id="Maximise" fill="#7BBB44" cx="37.3285714" cy="6.85714286" r="4.78571429"></circle>
+                        </g>
+                    </g>
+                    <g id="Content" transform="translate(27.303483, 41.791045)" fill="#96A9C8">
+                        <rect id="Logo" x="0.609452736" y="0.49466951" width="63.7" height="21.7142857" rx="5"></rect>
+                        <rect id="Nav_1" stroke="#96A9C8" stroke-width="0.5" x="120.092786" y="6.45895522" width="37.0666667" height="10.9285714" rx="5"></rect>
+                        <rect id="Nav_2" stroke="#96A9C8" stroke-width="0.5" x="162.559453" y="6.45895522" width="37.0666667" height="10.9285714" rx="5"></rect>
+                        <rect id="Nav_3" stroke="#96A9C8" stroke-width="0.5" x="205.026119" y="6.45895522" width="37.0666667" height="10.9285714" rx="5"></rect>
+                        <rect id="Nav_4" stroke="#96A9C8" stroke-width="0.5" x="249.126119" y="6.45895522" width="37.0666667" height="10.9285714" rx="5"></rect>
+                        <rect id="Item_1" stroke="#96A9C8" stroke-width="0.5" x="0.859452736" y="32.2841151" width="85.722807" height="54.3571429" rx="5"></rect>
+                        <rect id="Rectangle" stroke="#96A9C8" stroke-width="0.5" x="119.702736" y="32.488806" width="166.733831" height="7.85820896" rx="3.92910448"></rect>
+                        <rect id="Rectangle-Copy" stroke="#96A9C8" stroke-width="0.5" x="119.702736" y="44.4291045" width="166.733831" height="7.85820896" rx="3.92910448"></rect>
+                        <rect id="Rectangle-Copy-2" stroke="#96A9C8" stroke-width="0.5" x="119.702736" y="56.369403" width="166.733831" height="7.85820896" rx="3.92910448"></rect>
+                        <rect id="Rectangle-Copy-3" stroke="#96A9C8" stroke-width="0.5" x="119.702736" y="68.3097015" width="166.733831" height="7.85820896" rx="3.92910448"></rect>
+                        <rect id="Rectangle-Copy-4" stroke="#96A9C8" stroke-width="0.5" x="119.702736" y="80.25" width="103.594527" height="6.6641791" rx="3.33208955"></rect>
+                        <rect id="Item_1" stroke="#96A9C8" stroke-width="0.5" x="202.222637" y="105.119936" width="85.722807" height="54.3571429" rx="5"></rect>
+                        <rect id="Rectangle" stroke="#96A9C8" stroke-width="0.5" x="1.95646766" y="105.324627" width="166.733831" height="7.85820896" rx="3.92910448"></rect>
+                        <rect id="Rectangle-Copy" stroke="#96A9C8" stroke-width="0.5" x="1.95646766" y="117.264925" width="166.733831" height="7.85820896" rx="3.92910448"></rect>
+                        <rect id="Rectangle-Copy-2" stroke="#96A9C8" stroke-width="0.5" x="1.95646766" y="129.205224" width="166.733831" height="7.85820896" rx="3.92910448"></rect>
+                        <rect id="Rectangle-Copy-3" stroke="#96A9C8" stroke-width="0.5" x="1.95646766" y="141.145522" width="166.733831" height="7.85820896" rx="3.92910448"></rect>
+                        <rect id="Rectangle-Copy-5" stroke="#96A9C8" stroke-width="0.5" x="1.95646766" y="153.085821" width="166.733831" height="7.85820896" rx="3.92910448"></rect>
+                        <rect id="Rectangle-Copy-4" stroke="#96A9C8" stroke-width="0.5" x="1.95646766" y="165.026119" width="103.594527" height="6.6641791" rx="3.33208955"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Mobile_site" transform="translate(285.000000, 407.000000)">
+                <g id="Phone_site">
+                    <g id="Phone_BG">
+                        <rect id="BG" fill="#DBE2EE" opacity="0.495442708" x="0" y="0" width="91" height="168" rx="10"></rect>
+                        <rect id="Screen" fill="#CCD6E6" opacity="0.716202446" x="0" y="15.1111111" width="91" height="128"></rect>
+                        <rect id="Speaker" stroke="#96A9C8" stroke-width="0.5" x="34.2686916" y="7.36111111" width="23.3130841" height="2.16666667" rx="1.08333333"></rect>
+                        <ellipse id="Home" stroke="#96A9C8" stroke-width="0.5" cx="45.9252336" cy="156.444444" rx="6.80373832" ry="7.11111111"></ellipse>
+                    </g>
+                    <rect id="Logo" fill="#96A9C8" x="6.38596491" y="24.2851485" width="29.7973684" height="15.1247525" rx="5"></rect>
+                    <rect id="Nav_1" fill="#96A9C8" x="64.6578947" y="28.2772277" width="17.572807" height="7.96039604" rx="3.98019802"></rect>
+                    <rect id="Item_1" fill="#96A9C8" x="6.67105263" y="44.7683168" width="75.5482456" height="38.209901" rx="5"></rect>
+                    <g id="Text_1-Copy" transform="translate(6.385965, 88.158416)" fill="#96A9C8">
+                        <rect id="Rectangle" x="0" y="0" width="78.2280702" height="5.82178218" rx="2.91089109"></rect>
+                        <rect id="Rectangle-Copy" x="0" y="8.31683168" width="78.2280702" height="5.82178218" rx="2.91089109"></rect>
+                        <rect id="Rectangle-Copy-2" x="0" y="16.6336634" width="78.2280702" height="5.82178218" rx="2.91089109"></rect>
+                        <rect id="Rectangle-Copy-3" x="0" y="24.950495" width="78.2280702" height="5.82178218" rx="2.91089109"></rect>
+                        <rect id="Rectangle-Copy-5" x="0" y="33.2673267" width="78.2280702" height="5.82178218" rx="2.91089109"></rect>
+                        <rect id="Rectangle-Copy-4" x="0" y="41.5841584" width="48.6929825" height="4.99009901" rx="2.4950495"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
